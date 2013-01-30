@@ -1,0 +1,112 @@
+﻿LANGUAGE,Español
+loginname,Usuario
+password,Contraseña
+language,Idioma
+server,Servidor
+players,Jugadores
+save_login_info,Recordar información
+login,Entrar
+lobby,Salón
+refresh,Recargar
+wait,Crear partida
+stop,Cancelar partida
+challenge,Retar
+options,Opciones
+search,Buscar
+mute,Silenciar
+leave,Dejar PC
+logout,Salir
+back_to_game,Volver a la partida
+status_short,Estado
+title,Título
+rank,Rango
+name,Nombre
+country,País
+rate,Puntaje
+waiter,En espera
+country_short,País
+thinking_time,Duración
+handicap,Ventaja
+black,Negras
+white,Blancas
+rule,Reglas
+game_status,Estatus
+monitor,Espec 
+opening_short,Apertura
+watch,Ver Partida
+view_as,Ver como
+chat,Chat
+auto_scroll,desplazar
+resign,Rendirse
+impasse,Impasse?
+flip,
+close_game,Cerrar
+rematch,Revancha
+clear_arrows,Borrar Flechas
+arrow,Flecha
+clear,Borrar  
+greet,Greet
+check_lobby,Ver Salón
+watchers,Espectadores
+kifu,Kifu
+copy,Copiar
+save,Guardar
+replay,Repetición
+listen,Atender
+search_panel,Pánel de Búsqueda
+kifu_search,Buscar Kifu
+share,Compartir 
+close,Cerrar
+result,Resultado
+opening,Apertura
+moves,Movimientos
+game_date,Fecha
+player_search,Buscar Jugador
+win,victorias
+loss,Derrotas
+draw,Empates
+total,Total
+percentage_short,% De victoria
+streak_short,Victorias en serie
+signed_up,Inscripción
+last_updated,Última actualización
+view_rankings,Rankings
+streak,Mejor serie de victorias
+percentage,Porcentaje de victorias
+wins,Victorias
+total_games,Número de partidas
+accept,Aceptar
+reject,Rechazar
+invitation,Invitación
+set_autoreply,Definir mensaje automático
+will_be_back_in,Volveré en
+hours,Horas
+minutes,Minutos
+message,Mensaje
+cancel,Cancelar
+sound,Audio
+blind_piece,Juego ciego
+save_settings,Guardar configuración
+win_small,Victorias
+loss_small,Derrotas
+current,Actual
+invite,Invitar
+detail,Detalles
+favorite,Favorito
+ignore,Ignorar
+allow,Autorizar
+set_rate,Definir rango
+rated,Clasificable
+nonrated,No clasificable
+tournament,Torneo oficial
+study_room,Modo estudio
+comment,Comentario
+declare,Declarar victoria
+entered_impasse,Adentro
+pieces_impasse,Piezas
+points_impasse,Puntos
+error,Error
+tendency,Tendencias
+rate_history,Evolución
+data_table,Tabla
+status,Estatus

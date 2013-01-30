@@ -1,0 +1,241 @@
+﻿LANGUAGE,English
+loginname,Login Name
+password,Password
+language,Language
+server,Server
+description,Description
+players,Player
+alive,Alive
+save_login_info,Save login info
+login,Login
+lobby,Main Lobby
+refresh,Refresh Lists
+wait,Wait for Game
+stop,Stop Waiting
+challenge,Challenge
+options,Options
+search,Search
+mute,Mute
+leave,Leave PC
+logout,Log Out
+back_to_game,Back to Game
+status_short,Stat
+title,Title
+rank,Rank
+name,Name
+country,Country
+rate,Rate
+waiter,Waiting Player
+country_short,Ctry
+thinking_time,Time
+handicap,Handicap
+black,Black
+white,White
+rule,Rule
+game_status,Status
+monitor,Mon
+opening_short,Opng
+watch,Watch Game
+view_as,View as:
+chat,Chat
+auto_scroll,Auto-scroll
+resign,Resign
+impasse,Impasse?
+flip,Flip Board
+close_game,Exit
+rematch,Rematch
+voice,Voice-chat
+voice_direct,Post-game analysis (Direct)
+voice_shared,Post-game analysis (Public)
+voice_broadcast,Join broadcasting
+voice_listen,Listen
+voice_off,Close connection
+status_tip_self,Myself
+status_tip_direct,Using DIRECT post-game voice-chat
+status_tip_shared,Using PUBLIC post-game voice-chat
+status_tip_broadcast,Broadcasting
+status_tip_listen,Listening to your public voice-chat
+status_tip_host,Host of the study-mode
+clear_arrows,Clear Arrows
+arrow,Arrow
+clear,Clear
+greet,Greet
+check_lobby,Check Lobby
+stat_m,Monitoring
+stat_w,Waiting
+stat_p,Postgame
+stat_g,Game
+stat_g1,started
+stat_g2,opening
+stat_g3,middlegame
+stat_g4,middle/end
+stat_g5,endgame
+stat_d,Disconnected
+watchers,Watchers
+allow_chat,Receive watcher's chat
+kifu,Kifu
+copy,Copy to Clipboard as KIF
+save,Save to KIF
+replay,Replay/analyze locally
+listen,Follow latest position
+replay_tip,Replay/analyze only on own PC. The board is not shared unless you are the host of post-game discussion.
+listen_tip,Latest position is shown when watching; and host's board is shown in post-game. Arrows will be also shared.
+search_panel,Search Panel
+kifu_search,Kifu Search
+share,Share Kifu
+close,Close
+result,Result
+opening,Opening
+moves,Moves
+game_date,Date
+player_search,Player Search
+win,Win
+loss,Loss
+draw,Draw
+total,Total
+percentage_short,%-win
+streak_short,Streak
+signed_up,Joined
+last_updated,Updated
+view_rankings,View Rankings
+streak,Best Streak
+percentage,Winning %
+wins,Wins
+total_games,Total Games
+accept,Accept
+reject,Reject
+invitation,Invitation
+set_autoreply,Set auto-reply message
+will_be_back_in,Will be back in
+hours,hours
+minutes,minutes
+message,message
+cancel,Cancel
+pieces,Pieces
+blind_piece,Blind Piece
+op_grab,Grab piece when moving
+op_highlight,Highlight movable squares
+sound,Sound
+sound_piece,piece sound
+sound_end,game end sound
+sound_chat,incoming chat sound
+sound_byoyomi,byoyomi sound
+byoyomi_chime,Chime
+byoyomi_jp,Japanese
+game_room,Game Room
+pm,Private Message
+communication,Communication
+notation,Notation Style
+notation_uni,Universal
+notation_jp,Japanese
+notation_west,Western
+pm_auto,Auto-open window on reception
+arrow_accept,Accept arrows from others
+arrow_color,Your color
+remove,Remove
+save_settings,Save settings to server
+win_small,win
+loss_small,loss
+current,Current
+invite,Invite
+detail,Detail
+favorite,Favorite
+ignore,Block
+allow,Give Study-mode rights
+give_host,Hand over Host status
+give_subhost,Allow Sub-host status
+set_rate,Set Rate
+rated,Rated
+nonrated,Non-rated
+min,min
+sec,sec
+hc_even,Even Game
+hc_fixed,Fixed-black
+hc_lance,Lance Down
+hc_bishop,Bishop Down
+hc_rook,Rook Down
+hc_rooklance,Rook-Lance Down
+hc_rooksilver,Rook-Silver Down
+hc_2p,2-piece Down
+hc_4p,4-piece Down
+hc_6p,6-piece Down
+hc_8p,8-piece Down
+hc_tombo,Dragonfly
+hc_10p,10-piece Down
+hc_3pawns,Three Pawns
+hc_naked,Naked King
+hc_openair,Open-air Shogi
+hc_mini,Mini Shogi
+hc_56,GoroGoro Shogi
+hc_33,3x3 Shogi
+tournament,Official Tournament
+study_room,Study Room
+load_kifu,Load
+comment,Comment
+declare,Declare Win
+entered_impasse,Entered
+pieces_impasse,Pieces
+points_impasse,Points
+error,Error
+tendency,Tendencies
+rate_history,Rate History
+data_table,Data Table
+status,Status
+msg_newlogin,\n- Double click names to see Player Info. (Also [***] in chat window)\n- Double click games to watch.\n- Play 5 rated games, and your rating will be determined!
+msg_host,You are the host of Study Mode. Your board is shared.
+msg_subhost,You are a sub-host of study mode. You can move the host's pieces.
+msg_subhost_given,You are given Study sub-host status. You can move the host's pieces.
+msg_study_notify,Study-position is changed. Back to Listen Mode to update.
+msg_rated,This game is Rated.\nPlayers CANNOT see watcher's chat until the game ends.\nWatcher can PM to players, but it will be notified to others.
+msg_nonrated,This game is Non-rated.\nPlayers CAN see watcher's chat even during game.
+msg_disconnect,Opponent disconnected.
+msg_illegal,Illegal move.
+msg_perpetual,Illegal Perpetual Check.
+msg_repetition,Sennichite. (Repetition)
+msg_lag,Your timer is lagging by more than 5 sec due to CPU load. Time-up loss can occur earlier than your timer hits zero.
+msg_disconnect_alert1,You can declare win after 30 seconds, or keep waiting.
+msg_disconnect_alert2,Declaration is automatically made after 300 seconds.
+msg_addlist,Added to the list temporarily. Go to Option Window to set it permanent or cancel.
+msg_addlist_favorite: "Added to the favorite list temporarily. Go to Option Window to set it permanent or cancel.",
+msg_addlist_block: "Added to the block list temporarily. Go to Option Window to set it permanent or cancel.",
+C000,The opponent is in challenge/invite process with someone else.
+C001,Cannot challenge, because a server maintenance will be held soon.
+C002,The opponent is already starting a game.
+C003,The opponent did not respond within time limit.
+C004,The opponent rejected your challenge.
+C005,Challenge accepted!
+C010, is not accepting invitation now.
+C011, is already playing a game.
+C012, is in challenge/invite process with someone else.
+C013, did not respond within time limit.
+C014, declined the invitation.
+C015, declined the invitation. (Busy)
+C016, declined the invitation. (Preferring other rules)
+C017, declined the invitation. (Preferring shorter game)
+C018, declined the invitation. (Preferring longer game)
+C019, declined the invitation. (Preferring rated game)
+C020, declined the invitation. (Waiting for someone else)
+G000,: Leaving Host's position.
+G001,: Back to Host's position.
+G002,
+G003,: Erased branch moves.
+G010,: Pieces set back to normal.
+G011,: Pieces set to Blind, Middle.
+G012,: Pieces set to Blind, Hard.
+G013,: Pieces set to Blind, Extreme.
+G014, is playing with blind pieces, Middle.
+G015, is Playing with blind pieces, Hard.
+G016, is Playing with blind pieces, Extreme
+G050,: Standing-by for rematch.
+G100,: Blocked watchers' chat.
+G101,: Receiving watchers' chat.
+G102, is currently blocking watchers' chat.
+P000, has sent a PM to the opponent.
+L000,Name or password is wrong.
+L001,Cannot login.
+L002,Override login failed.
+L003,Login failed.
+V000,Direct voice-chat connected!
+V001,'s public voice-chat received!
+V002,Quit listening.
+V003,Requesting to connect to public voice-chat...

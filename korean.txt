@@ -1,0 +1,112 @@
+﻿LANGUAGE,한국어
+loginname,아이디
+password,비밀번호
+language,언어
+server,서버
+players,플레이어
+save_login_info,로그인정보 보존
+login,로그인
+lobby,메인로비
+refresh,새로고침
+wait,대기중
+stop,대기중지
+challenge,도전
+options,옵션
+search,검색
+mute,음소거
+leave,자리를 뜨다
+logout,로그아웃
+back_to_game,복귀
+status_short,상태
+title,타이틀
+rank,등급
+name,이름
+country,국적
+rate,레이트
+waiter,뒤전
+country_short,국적
+thinking_time,시간
+handicap,핸드캡
+black,선공
+white,후공
+rule,규칙
+game_status,상황
+monitor,관전
+opening_short,전형
+watch,관전
+view_as,순번선택
+chat,채팅
+auto_scroll,자동 스크롤
+resign,종료
+impasse,입옥 승부 계산기
+flip,반전
+close_game,퇴출
+rematch,재전
+clear_arrows,화살표 소거
+arrow,화살표 
+clear,소거
+greet,인사
+check_lobby,체크로비
+watchers,관전자
+kifu,키후
+copy,복사
+save,보호
+replay,재생
+listen,관전
+search_panel,정보관전
+kifu_search,키후관전
+share,키후공유
+close,닫다
+result,결과
+opening,전형
+moves,둔 횟수
+game_date,날짜
+player_search,플레이어 검색
+win,승리 횟수
+loss,패배 횟수
+draw,비긴 횟수
+total,총합
+percentage_short,승률
+streak_short,연승 횟수
+signed_up,등록일
+last_updated,갱신일
+view_rankings,랭킹 보기
+streak,최대 연승 횟수
+percentage,승률
+wins,승리
+total_games,대전 횟수
+accept,승인
+reject,거절
+invitation,초대
+set_autoreply,자동 응답 설정
+will_be_back_in,시간 자리비움
+hours,시간
+minutes,분
+message,메시지
+cancel,취소
+sound,음성
+blind_piece,눈 가리고 승부
+save_settings,서버 설정 저장
+win_small,승
+loss_small,부
+current,현재
+invite,초대
+detail,상세
+favorite,즐겨찾기
+ignore,차단
+allow,허락
+set_rate,랭킹 신고
+rated,랭킹 모드
+nonrated,논랭킹 모드
+tournament,공식 토너먼트
+study_room,검사실
+comment,코멘트
+declare,승리선언
+entered_impasse,입옥
+pieces_impasse,말 수
+points_impasse,포인트
+error,에러
+tendency,전형채용율
+rate_history,레이팅전환
+data_table,승패표
+status,상태

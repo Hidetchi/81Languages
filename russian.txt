@@ -1,0 +1,88 @@
+﻿LANGUAGE,Русский
+loginname,логин
+password,пароль
+language,язык
+save_login_info,запомнить меня
+login,Войти
+lobby,Игровой зал
+refresh,Обновить
+wait,Ожидать игру
+stop,Отдыхать
+challenge,Предложить игру
+options,Настройки
+search,Поиск
+mute,убрать звук
+leave,Отойти
+logout,Выйти
+back_to_game,Вернуться к игре
+status_short,Сост.
+title,Титул
+rank,Разряд
+name,Имя
+country,Страна
+rate,Рейтинг
+waiter,Ожидающий
+country_short,Страна
+thinking_time,время
+handicap,Гандикап
+black,Черные
+white,Белые
+rule,Регл.
+status,Статус
+monitor,Набл.
+opening_short,Деб.
+watch,Watch Game
+view_as,View as:
+chat,Чат
+auto_scroll,автопрокрутка
+resign,Сдаться
+impasse,Импасс?
+close_game,Закрыть
+check_lobby,Игровой зал
+watchers,Наблюдающие
+kifu,Запись партии
+copy,Копир.
+save,Сохр.
+replay,Просмотреть
+listen,Слушать
+search_panel,Панель поиска
+kifu_search,Поиск партии
+search,Поиск
+close_search,Закрыть
+result,Результат
+opening,Дебют
+moves,Ходов
+game_date,Дата
+player_search,Поиск игрока
+win,Поб.
+loss,Пораж.
+total,Всего
+percentage_short,% побед
+streak_short,Лучшая серия
+signed_up,Дата рег.
+last_updated,Посл. обновл.
+view_rankings,Рейтинги
+streak,Наилучшая серия
+percentage,Процент побед
+wins,Число побед
+total_games,Всего игр
+accept,Играть
+reject,Отказаться
+invitation,Invitation
+set_autoreply,Настройка автосообщения
+will_be_back_in,Вернусь через
+hours,час(ов)
+minutes,минут(у)
+message,сообщение
+cancel,Отмена
+sound,Звук
+blind_piece,Играть "вслепую"
+save_settings,Сохранить настройки на сервере
+win_small,поб.
+loss_small,пораж.
+current,Текущая серия
+invite,Invite
+ignore,Ignore
+rated,рейтинговая
+nonrated,нерейтинговая
+error,Error

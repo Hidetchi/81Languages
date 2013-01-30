@@ -1,0 +1,112 @@
+﻿LANGUAGE,Français
+loginname,pseudonyme
+password,mot de passe 
+language,langue
+server,Serveur
+players,joueurs
+save_login_info,se souvenir de moi
+login,Entrer
+lobby,Salon
+refresh,Rafraîchir 
+wait,Créer une partie
+stop,Se retirer
+challenge,Défier
+options,Options
+search,Rafraîchir
+mute,Muet
+leave,Faire une pause
+logout,Déconnexion
+back_to_game,Revenir
+status_short,Stat
+title,Titre
+rank,Grade
+name,Nom
+country,Pays
+rate,Class
+waiter,Joueurs prêts
+country_short,Pays
+thinking_time,Cadence
+handicap,Handicap
+black,Noir
+white,Blanc
+rule,Règle
+game_status,Statut
+monitor,Spec
+opening_short,Ouv
+watch,Voir la partie
+view_as,Point de vue :
+chat,Chat
+auto_scroll,Défil auto
+resign,Abandonner
+impasse,Impasse?
+flip,Inverser
+close_game,Fermer
+rematch,Revanche
+clear_arrows,Supp. Flèches
+arrow,Flèche
+clear,Effacer
+greet,Greet
+check_lobby,Salon
+watchers,Spectateurs
+kifu,Kifu
+copy,Copier au format .kif
+save,Sauvegarder
+replay,Rejouer
+listen,Regarder
+search_panel,Options de recherche
+kifu_search,Recherche de kifu
+share,Partager
+close,Fermer
+result,Resultat
+opening,Ouverture
+moves,Coups
+game_date,Date
+player_search,Recherche de joueurs
+win,Victoire
+loss,Défaite
+draw,Nulle
+total,Total
+percentage_short,% victoire
+streak_short,Série de victoires
+signed_up,Inscription
+last_updated,Dernière partie
+view_rankings,Classements
+streak,Meilleure série de victoires
+percentage,Pourcentage de gains
+wins,Victoires
+total_games,Nombre de parties
+accept,Accepter
+reject,Rejeter
+invitation,Invitation
+set_autoreply,Message de réponse automatique
+will_be_back_in,De retour dans
+hours,heures
+minutes,minutes
+message,message
+cancel,Annuler
+sound,Audio
+blind_piece,à l'aveugle
+save_settings,Sauvegarder les paramètres
+win_small,victoires
+loss_small,défaites
+current,Actuelle
+invite,Inviter
+detail,Détails
+favorite,Favoris
+ignore,Ignorer
+allow,Autoriser
+set_rate,Choisir rang
+rated,Classée
+nonrated,Non classée
+tournament,Tournament officiel
+study_room,Étude de partie
+comment,Commentaire
+declare,Réclamer le gain
+entered_impasse,Entré
+pieces_impasse,Pièces
+points_impasse,Points
+error,Erreur
+tendency,Tendances
+rate_history,Évolution
+data_table,Table données
+status,Statut

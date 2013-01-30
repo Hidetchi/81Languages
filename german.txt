@@ -1,0 +1,164 @@
+﻿LANGUAGE,Deutsch
+loginname,Login Name
+password,Passwort
+language,Sprache
+server,Server
+description,Beschreibung
+players,Spieler
+alive,tätig
+save_login_info,Login Daten speichern
+login,Login
+lobby,Spielsaal
+refresh,Aktualisieren
+wait,Spiel erstellen
+stop,Spiel abbrechen
+challenge,Herausfordern
+options,Optionen
+search,Suche
+mute,Lautlos
+leave,PC verlassen
+logout,Ausloggen
+back_to_game,Zurück zum Spiel
+status_short,Stat
+stat_m,Beobachtend
+stat_w,Wartend
+stat_p,Nachspiel
+stat_g,Spiel
+stat_g1,gestarted
+stat_g2,Eröffnung
+stat_g3,Mittelspiel
+stat_g4,Mitte/Ende
+stat_g5,Endspiel
+stag_d,Getrennt
+title,Titel
+rank,Rang
+name,Name
+country,Nation
+rate,Rating
+waiter,Wartend
+country_short,Land
+thinking_time,Zeit
+handicap,Handicap
+black,Schwarz
+white,Weiß
+rule,Regel
+game_status,Status
+monitor,Beob.
+opening_short,Eröff.
+watch,Spiel beobachten
+view_as,aus Sicht von:
+chat,Chat
+auto_scroll,Autoscroll
+resign,Aufgeben
+impasse,Impasse?
+flip,Brett wenden
+close_game,Schließen
+rematch,Revanche
+clear_arrows,
+arrow,Pfeil
+clear,Löschen
+greet,Grüße
+check_lobby,zum Spielsaal
+watchers,Beobachter
+kifu,Kifu
+copy,Kopieren
+save,Speichern
+replay,Nachspielen
+listen,Zuschauen
+search_panel,Suche
+kifu_search,Kifu Suche
+share,Share
+close,Schließen
+result,Ergebnis
+opening,Eröffnung
+moves,Züge
+game_date,Datum
+player_search,Spieler Suche
+win,Sieg
+loss,Niederlage
+draw,Remis
+total,Total
+percentage_short,% Siege
+streak_short,Siegessträhne
+signed_up,Registriert
+last_updated,Letzte Partie
+view_rankings,Wertungszahlen 
+streak,Beste Gewinnsträhne
+percentage,Prozent
+wins,Siege
+total_games,Partien gesamt
+accept,Annehmen
+reject,Ablehnen
+invitation,Invitation
+set_autoreply,Automatische Nachricht
+will_be_back_in,Bin zurück in
+hours,Stunden
+minutes,Minuten
+message,Nachricht
+cancel,Abbrechen
+pieces,Steine
+blind_piece,Blindstein
+op_grab,Stein beim Zug greifen
+op_highlight,
+sound,Sound
+sound_piece,Stein Sound
+sound_end,Spielabschluss Sound
+sound_chat,Chat Empfang Sound
+sound_byoyomi,Byoyomi Sound
+byoyomi_chime,Glockenspiel
+byoyomi_jp,Japanisch
+game_room,Spielraum
+pm,Private Nachricht
+communication,Kommunikation
+notation,Bezeichnung Stil
+notation_uni,Universal
+notation_jp,Japanisch
+notation_west,Westlich
+pm_auto,Fenster bei Empfang automatisch öffnen
+arrow_accept,Pfeile von anderen akzeptieren
+arrow_color,Ihre Farbe
+remove,entfernen
+save_settings,Einstellungen speichern
+win_small,Siege
+loss_small,Niederl.
+current,Aktuell
+invite,Invite
+detail,Detail
+favorite,Favorit
+ignore,Ignorieren
+allow,Erlauben
+set_rate,Rang setzen
+rated,Gewertet
+nonrated,Ungewertet
+min,Min
+sec,Sek
+hc_even,
+hc_lance,
+hc_bishop,
+hc_rook,
+hc_rooklance,
+hc_rooksilver,
+hc_2p,
+hc_4p,
+hc_6p,
+hc_8p,
+hc_tombo,
+hc_10p,
+hc_3pawns,
+hc_naked,
+hc_mini,
+hc_56,
+hc_33,
+tournament,Offizielles Turnier
+study_room,Studierraum
+load_kifu,Laden
+comment,Kommentar
+declare,Sieg reklamieren
+entered_impasse,Eingetreten
+pieces_impasse,Figuren
+points_impasse,Punkte
+error,Fehler
+tendency,Tendenz
+rate_history,Rating Geschichte
+data_table,Daten Tabelle
+status,Status

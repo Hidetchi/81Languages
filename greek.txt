@@ -1,0 +1,112 @@
+﻿LANGUAGE,Ελληνικά
+loginname,Όνομα χρήστη
+password,Κωδικός
+language,Γλώσσα
+server,Διακομιστής
+players,Παίκτης
+save_login_info,Αποθήκευση στοιχείων εισόδου
+login,Είσοδος
+lobby,Αίθουσα αναμονής
+refresh,Ανανέωση
+wait,Αναμονή Παιχνιδιού
+stop,Τέλος Αναμονής
+challenge,Προκάλεσε
+options,Επιλογές
+search,Αναζήτηση
+mute,Σίγαση
+leave,Φεύγω απ' το PC
+logout,Αποσύνδεση
+back_to_game,Επιστροφή στο παιχνίδι
+status_short,Κατάστ.
+title,Τίτλος
+rank,Τάξη
+name,Όνομα
+country,Χώρα
+rate,Βαθμ.
+waiter,Παίκτες σε αναμονή
+country_short,Χώρα
+thinking_time,Χρόνος
+handicap,Χάντικαπ
+black,Μαύρα
+white,Άσπρα
+rule,Κανόνες
+game_status,Κατάστ.
+monitor,Παρατ.
+opening_short,Άνοιγμα
+watch,Προβολή Παιχνιδιού
+view_as,Απο ποιά πλευρά;
+chat,Ομιλία
+auto_scroll,Α.Κ.
+resign,Παραίτηση
+impasse,Ατελείωτο;
+flip,Περιστροφή Σκακιέρας
+close_game,Έξοδος
+rematch,Ρεβάνς
+clear_arrows,
+arrow,Βελάκι
+clear,Καθάρισμα
+greet,Χαιρετισμοί
+check_lobby,Αίθουσα αναμονής
+watchers,Θεατές
+kifu,Kifu
+copy,Αντιγραφή
+save,Αποθήκευση
+replay,Ανασκόπ.
+listen,Παρακολ.
+search_panel,Πλαίσιο Αναζήτησης
+kifu_search,Αναζήτηση Παρτίδων
+share,Στείλ' το
+close,Κλείσιμο
+result,Αποτελ.
+opening,Στρατηγική
+moves,Κινήσεις
+game_date,Ημερομηνία
+player_search,Αναζήτηση Παίκτη
+win,Νίκες
+loss,Ήττες
+draw,
+total,Συνολ.
+percentage_short,Νίκες%
+streak_short,Σερί
+signed_up,Εγγραφή
+last_updated,Τελευταία Αλλαγή
+view_rankings,Προβολή Στατιστικών
+streak,Μεγαλύτερο Σερί
+percentage,Ποσοστό Νικών
+wins,Νίκες
+total_games,Συνολικά Παιχνίδια
+accept,Αποδοχή
+reject,Απόρριψη
+invitation,Πρόσκληση
+set_autoreply,Άφησε σημείωμα (αυτόματη απάντηση)
+will_be_back_in,Επιστρέφω σε
+hours,ώρες
+minutes,λεπτά
+message,σημείωμα
+cancel,Ακύρωση
+sound,Ήχος
+blind_piece,Τυφλό παιχνίδι
+save_settings,Αποθήκευση επιλογών 
+win_small,νίκες
+loss_small,ήττες
+current,Τρέχων
+invite,Προσκάλεσε
+detail,Λεπτομέριες
+favorite,Αγαπημένος
+ignore,Αγνόησε
+allow,Επέτρεψε
+set_rate,Όρισε Βαθμολογία
+rated,Βαθμολογούμενο
+nonrated,Αβαθμολόγητο/Φιλικό
+tournament,Επίσημος Αγώνας
+study_room,Δωμάτιο Μελέτης
+comment,Σχόλιο
+declare,Δήλωση Νίκης
+entered_impasse,Είσοδος
+pieces_impasse,Κομμάτια
+points_impasse,Πόντοι
+error,Σφάλμα
+tendency,Τάσεις
+rate_history,Ιστορικό Βαθμολογίας
+data_table,Πίνακας Δεδομένων
+status,Κατάσταση

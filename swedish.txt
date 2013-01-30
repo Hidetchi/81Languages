@@ -1,0 +1,96 @@
+﻿LANGUAGE,Svenska
+loginname,Användarnamn
+password,Lösenord
+language,Språk
+server,Server
+save_login_info,Kom ihåg mig
+login,Logga in
+lobby,Huvudlobby
+refresh,Uppdatera
+wait,Invänta parti
+stop,Upphör vänta
+challenge,Utmana
+options,Alternativ
+search,Sök
+mute,Ljudlös
+leave,Lämna datorn
+logout,Logga ut
+back_to_game,Åter till parti
+status_short,Stat.
+title,Titel
+rank,Rank
+name,Namn
+country,Land
+rate,Rating
+waiter,Väntande spelare
+country_short,Land
+thinking_time,Tid
+handicap,Handikapp
+black,Svart
+white,Vit
+rule,Regel
+status,Status
+monitor,Åsk.
+opening_short,Öpng
+watch,Se parti
+view_as,Se som:
+chat,Chat
+auto_scroll,Autoscroll
+resign,Resignera
+impasse,Impasse?
+flip,Vänd brädet
+close_game,Stäng
+rematch,Revansch
+clear_arrows,Rensa pilar
+greet,Hälsa
+check_lobby,Kolla lobby
+watchers,Åskådare
+kifu,Kifu
+copy,Kopiera
+save,Spara
+replay,Spela om
+listen,Lyssna
+search_panel,Sökpanel
+kifu_search,Sök kifu
+search,Sök
+share,Dela
+close_search,Stäng
+result,Resultat
+opening,Öppning
+moves,Drag
+game_date,Datum
+player_search,Sök spelare
+win,Vinster
+loss,Förluster
+total,Total
+percentage_short,Vinst-%
+streak_short,Vinstföljd
+signed_up,Registrerad
+last_updated,Senast uppdaterad
+view_rankings,Se ranking
+streak,Längsta vinstföljd
+percentage,Vinstprocent
+wins,Vinster
+total_games,Totalt antal partier
+accept,Acceptera
+reject,Avböj
+invitation,Inbjudan
+set_autoreply,Ställ in meddelande för autosvar
+will_be_back_in,Tillbaka om
+hours,h
+minutes,min
+message,Meddelande
+cancel,Avbryt
+sound,Ljud
+blind_piece,Blindpjäser
+save_settings,Spara inställningar till server
+win_small,vinster
+loss_small,förluster
+current,Nuvarande
+invite,Bjud in
+favorite,Favorisera
+ignore,Ignorera
+rated,Rankat
+nonrated,Orankat
+declare,Deklarera vinst
+error,Fel
