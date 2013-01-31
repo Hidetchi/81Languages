@@ -39,7 +39,7 @@ chat,Chat
 auto_scroll,desplazar
 resign,Rendirse
 impasse,Impasse?
-flip,
+flip,Invertir
 close_game,Cerrar
 rematch,Revancha
 clear_arrows,Borrar Flechas
@@ -110,3 +110,61 @@ tendency,Tendencias
 rate_history,Evolución
 data_table,Tabla
 status,Estatus
+msg_newlogin,\n- Doble click en el nombre de un jugador para ver su información. (También [***] en la ventana de chat)\n- Doble click en una partida para verla.\n- Juega 5 partidas y tu rango será determinado.
+msg_host,Eres el anfitrión de la mesa de estudio, tu tablero está siendo compartido.
+msg_subhost,Tienes privilegios de ainfitrión. Puedes mover las piezas en el tablero de estudio.
+msg_subhost_given,Te han otorgado privilegios de anfitrión. Puedes mover las piezas en el tablero de estudio..
+msg_study_notify,La posición de estudio ha cambiado. Vuelve a modo espectador para ver la nueva posición.
+msg_rated,Esta partida es clasificable.\nLos jugadores NO PUEDEN leer el chat hasta que la partida termine.\nLos espectadores pueden enviar mensajes privados a un jugador, pero será notificado al resto.
+msg_nonrated,Esta partida no es clasificable.\nLos jugadores pueden leer el chat durante la partida.
+msg_disconnect,Oponente desconectado.
+msg_illegal,Movimiento ilegal.
+msg_perpetual,Jaque perpetuo ilegal.
+msg_repetition,Sennichite. (Repetición)
+msg_lag,Tu cronómetro está retardado debido a sobrecarga de CPU. Podrías perder por tiempo antes de que tu cronómetro llegue a cero.
+msg_disconnect_alert1,Puedes declarar tu victoria después de 30 segundos, ó esperar.
+msg_disconnect_alert2,Se declarará la victoria automáticamente después de 300 segundos.
+msg_addlist,Agregado a la lista temporalmente. ve a la ventana de opciones para hacerlo permanente o cancelar.
+msg_addlist_favorite: "Agregado a la lista de favoritos temporalmente. Ve a la ventana de opciones para hacerlo permanente o cancelar.",
+msg_addlist_block: "Agregado a la lista de bloqueo temporalmente. Ve a la ventana de opciones para hacerlo permanente o cancelar.",
+C000,El oponente está en un reto o resolviendo una invitación con alguien más.
+C001,Impossible retar a alguien en este momento, debido a que pronto se hará mantenimiento al servidor.
+C002,El oponente ya está iniciando una partida.
+C003,El oponente no respondió dentro del tiempo límite.
+C004,El oponente ha rechazado tu reto.
+C005,¡Reto aceptado!
+C010, no acepta invitaciones en este momento.
+C011, ya está jugando.
+C012, está en un reto o resolviendo una invitación con alguien más.
+C013, no respondió en el tiempo límite.
+C014, no aceptó la invitación.
+C015, no aceptó la invitación. (Ocupado)
+C016, no aceptó la invitación. (Prefiere otras reglas)
+C017, no aceptó la invitación. (Prefiere una partida más corta)
+C018, no aceptó la invitación. (Prefiere una partida más larga)
+C019, No aceptó la invitación. (Prefiere una partida clasificable)
+C020, No aceptó la invitación. (Espera a alguien más)
+G000,: Dejando la posición del anfitrión.
+G001,: Regresando a la posición de anfitrión.
+G002,
+G003,: Secuencia de movimientos borrada.
+G010,: Regresando piezas a modo normal.
+G011,: Piezas en modo Ciego, medio.
+G012,: Piezas en modo ciego, difícil.
+G013,: Piezas en modo ciego, extremo.
+G014, está jugando con piezas "Ciegas", Medio.
+G015, está jugando con piezas "Ciegas", difícil.
+G016, está jugando con piezas "Ciegas", Extremo.
+G050,: Esperando revancha.
+G100,: Chat de espectadores bloqueado.
+G101,: Recibiendo chat de espectadores.
+G102, tiene actualmente bloqueado el chat de espectadores.
+P000, ha enviado un mensaje privado al oponente.
+L000,Nombre o contraseña incorrectos.
+L001,No se puede entrar.
+L002,falló al invalidad sesión.
+L003,falló incio de sesión.
+V000,¡Chat directo de voz conectado!
+V001, está enviando información por el chat de voz.
+V002,Dejar de escuchar.
+V003,Intentando conectar al chat de voz.
