@@ -3,7 +3,9 @@ loginname,Usuario
 password,Contraseña
 language,Idioma
 server,Servidor
+description,Descripción
 players,Jugadores
+alive,Con vida
 save_login_info,Recordar información
 login,Entrar
 lobby,Salón
@@ -42,17 +44,42 @@ impasse,Impasse?
 flip,Invertir
 close_game,Cerrar
 rematch,Revancha
+voice,Chat de voz
+voice_direct,Análisis de la partida (Directo)
+voice_shared,Análisis de la partida (Público)
+voice_broadcast,Entrar a la conversación
+voice_listen,Escuchar
+voice_off,Terminar conexión
+status_tip_self,Yo
+status_tip_direct,Usando chat de vos DIRECTO en el análisis de la partida
+status_tip_shared,Usando chat de voz PÚBLICO en el análisis de la partida
+status_tip_broadcast,Transmitiendo
+status_tip_listen,Escuchando tu chat de voz
+status_tip_host,Anfitrión del modo estudio
 clear_arrows,Borrar Flechas
 arrow,Flecha
 clear,Borrar  
 greet,Greet
 check_lobby,Ver Salón
+stat_m,Monitoreando
+stat_w,Esperando
+stat_p,Post-parida
+stat_g,partida
+stat_g1,iniciada
+stat_g2,apertura
+stat_g3,Juego medio
+stat_g4,Juego medio / final del juego
+stat_g5,Final del juego
+stat_d,Desconectado
 watchers,Espectadores
+allow_chat,Recibir el chat de los espectadores
 kifu,Kifu
 copy,Copiar
 save,Guardar
 replay,Repetición
-listen,Atender
+listen,Seguir la última posición
+replay_tip,Repite/analiza la partida en tu PC. Tu tablero no será compartido a menos que seas anfitrión del análisis post-partida.
+listen_tip,La última posición será mostrada; El tablero del anfitrión será mostrado en el análisis post-partida. Las flechas también serán compartidas.
 search_panel,Pánel de Búsqueda
 kifu_search,Buscar Kifu
 share,Compartir 
@@ -86,6 +113,26 @@ message,Mensaje
 cancel,Cancelar
 sound,Audio
 blind_piece,Juego ciego
+op_grab,Arrastra la piezas al mover
+op_highlight,Resalta las posiciones válidas
+sound,Sonido
+sound_piece,sonido de piezas
+sound_end,sonido de fin de juego
+sound_chat,sonido de chat
+sound_byoyomi,sonido de byoyomi
+byoyomi_chime,Campana
+byoyomi_jp,Japonés
+game_room,Sala de juego
+pm,Private Mensage
+communication,COmunicación
+notation,Estilo de notación
+notation_uni,Universal
+notation_jp,Japonés
+notation_west,Occidental
+pm_auto,Abrir ventana automáticamente al reibir un mensaje
+arrow_accept,Aceptar flechas de otros
+arrow_color,Tu color
+remove,Quitar
 save_settings,Guardar configuración
 win_small,Victorias
 loss_small,Derrotas
@@ -95,11 +142,35 @@ detail,Detalles
 favorite,Favorito
 ignore,Ignorar
 allow,Autorizar
+give_host,Convertir en anfitrión
+give_subhost,Dar privilegios de anfitrión
 set_rate,Definir rango
 rated,Clasificable
 nonrated,No clasificable
+min,min
+sec,sec
+hc_even,Even Game
+hc_fixed,Fixed-black
+hc_lance,Lance Down
+hc_bishop,Bishop Down
+hc_rook,Rook Down
+hc_rooklance,Rook-Lance Down
+hc_rooksilver,Rook-Silver Down
+hc_2p,2-piece Down
+hc_4p,4-piece Down
+hc_6p,6-piece Down
+hc_8p,8-piece Down
+hc_tombo,Dragonfly
+hc_10p,10-piece Down
+hc_3pawns,Three Pawns
+hc_naked,Naked King
+hc_openair,Open-air Shogi
+hc_mini,Mini Shogi
+hc_56,GoroGoro Shogi
+hc_33,3x3 Shogi
 tournament,Torneo oficial
 study_room,Modo estudio
+load_kifu,Cargar
 comment,Comentario
 declare,Declarar victoria
 entered_impasse,Adentro
