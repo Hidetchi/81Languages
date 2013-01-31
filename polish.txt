@@ -196,8 +196,8 @@ msg_lag,Twój zegar jest opóźniony o ponad 5 sek. za sprawa obciążenia proce
 msg_disconnect_alert1,Możesz zadeklarować zwycięstwo po 30 sekundach lub poczekać dłużej.
 msg_disconnect_alert2,Zwycięstwo zostanie przyznane automatycznie po 300 sekundach.
 msg_addlist,Tymczasowo dodano do listy. Przejdź do Okna Ustawień, aby zapisać na stałe lub anulować.
-msg_addlist_favorite: "Added to the favorite list temporarily. Go to Option Window to set it permanent or cancel.",Tymczasowo dodano do listy przyjaciół. Przejdź do Okna Ustawień, aby zapisać na stałe lub anulować.
-msg_addlist_block: "Added to the block list temporarily. Go to Option Window to set it permanent or cancel.",Tymczasowo dodano do listy zablokowanych. Przejdź do Okna Ustawień, aby zapisać na stałe lub anulować.
+msg_addlist_favorite,Tymczasowo dodano do listy przyjaciół. Przejdź do Okna Ustawień, aby zapisać na stałe lub anulować.
+msg_addlist_block,Tymczasowo dodano do listy zablokowanych. Przejdź do Okna Ustawień, aby zapisać na stałe lub anulować.
 C000,Przeciwnik jest zajęty odpowiadaniem na inne wyzwanie.
 C001,Nie można zaproponować gry, ponieważ wkrótce odbędzie się konserwacja serwera.
 C002,Przeciwnik właśnie rozpoczyna rozgrywkę.
