@@ -61,6 +61,7 @@ arrow,Pfeil
 clear,Löschen
 greet,Grüße
 check_lobby,Spielsaal schauen
+check_lobby_tip,Diese Taste ermöglicht, den Spielsaal temporär zu schauen, ohne den Spielraum zu verlassen. Du wird eigentlich in diesem Raum bleiben. 'Zurück zum Spiel' Taste wird im Spielsaal erscheinen.
 stat_m,Beobachtend
 stat_w,Wartend
 stat_p,Nachspiel
@@ -76,13 +77,13 @@ allow_chat,Chat der Beobachter empfangen
 kifu,Kifu
 copy,Kifu kopieren
 save,Kifu speichern
-replay,Lokal nachspielen/analysieren
+replay,Lokale Nachspl./Analyse
 listen,Aktuelle Position folgen
 replay_tip,Du kannst nur in deinem PC nachspielen/analysieren. Das Brett wird nicht geteilt, außer wenn du der Führer des Analyse-Modus bist.
-listen_tip,Die letzte Position wird angezeigt, wenn du das Spiel beobachtest. Das Brett des Führer des Analyse-Modus wird angezeigt, wenn ihr im Nachspiel analysiert. Pfeilen werden auch geteilt.
+listen_tip,Die letzte Position wird angezeigt, wenn du das Spiel beobachtest. Das Brett des Führer des Analyse-Modus wird angezeigt, wenn ihr im Nachspiel analysiert. Pfeile werden auch geteilt.
 search_panel,Suche
 kifu_search,Kifu Suche
-share,Share
+share,Teilen
 close,Schließen
 result,Ergebnis
 opening,Eröffnung
@@ -114,7 +115,7 @@ cancel,Abbrechen
 pieces,Steine
 blind_piece,Blindstein
 op_grab,Stein beim Zug greifen
-op_highlight,Zug möglichkeiten anzeigen
+op_highlight,Zugmöglichkeiten anzeigen
 sound,Sound
 sound_piece,Stein Sound
 sound_end,Spielabschluss Sound
@@ -237,5 +238,6 @@ L002,Überschreibendes Login fehlt.
 L003,Login fehlt.
 V000,Direktes Voice-Chat verbunden!
 V001,s öffentliches Voice-Chat ist empfangen!
-V002,Aufhören zuzuhören
+V002,Aufgehört, zuzuhören
 V003,Verbindung zu öffentlichem Voice-Chat anfordern...
+V004,Zugriffsanforderung ist den Spielern gesendet.

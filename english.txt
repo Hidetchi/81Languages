@@ -61,6 +61,7 @@ arrow,Arrow
 clear,Clear
 greet,Greet
 check_lobby,Check Lobby
+check_lobby_tip,This button is only to see the lobby temporarily while staying in this room. You will not leave the room. 'Back to Game' button appears in the Lobby.
 stat_m,Monitoring
 stat_w,Waiting
 stat_p,Postgame
@@ -239,3 +240,4 @@ V000,Direct voice-chat connected!
 V001,'s public voice-chat received!
 V002,Quit listening.
 V003,Requesting to connect to public voice-chat...
+V004,Sent request to players to access their post-game voice-chat.
