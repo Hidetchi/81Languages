@@ -145,7 +145,7 @@ detail,詳細
 favorite,お気に入り
 ignore,ブロック
 allow,感想戦の権限を付与
-give_host,ホスト権限を委譲
+give_host,ホスト権限を移譲
 give_subhost,サブ・ホスト権限を付与
 set_rate,レート申告
 rated,レート対局
@@ -193,7 +193,7 @@ msg_rated,この対局はレーティング戦です。\n観戦者のチャッ�
 msg_nonrated,この対局は非レーティング対局です。\n観戦者のチャットは対局者も見ることができます。
 msg_disconnect,相手の通信が切断されました。
 msg_illegal,反則手です
-msg_perpetual,反則手です (連続王手の千日手)
+msg_perpetual,連続王手の千日手
 msg_repetition,千日手です
 msg_lag,お使いのPCの負荷によりタイマーが5秒以上遅れています。時間切れにご注意下さい。
 msg_disconnect_alert1,相手が再接続するまで待つか、30秒経過後に勝ち宣言をすることが出来ます。
