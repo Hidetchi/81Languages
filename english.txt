@@ -56,6 +56,7 @@ status_tip_shared,Using PUBLIC post-game voice-chat
 status_tip_broadcast,Broadcasting
 status_tip_listen,Listening to your public voice-chat
 status_tip_host,Host of the study-mode
+position_query,Look up the position
 clear_arrows,Clear Arrows
 arrow,Arrow
 clear,Clear
@@ -114,13 +115,15 @@ message,message
 cancel,Cancel
 pieces,Pieces
 blind_piece,Blind Piece
+op_blind_notify,Notify blind piece usage
 op_grab,Grab piece when moving
 op_highlight,Highlight movable squares
 sound,Sound
-sound_piece,piece sound
-sound_end,game end sound
-sound_chat,incoming chat sound
-sound_byoyomi,byoyomi sound
+sound_piece,Piece sound
+sound_end,Game start/end sound
+sound_chat,Incoming chat sound
+sound_byoyomi,Byoyomi sound
+sound_button,Button sound
 byoyomi_chime,Chime
 byoyomi_jp,Japanese
 game_room,Game Room
@@ -134,6 +137,8 @@ pm_auto,Auto-open window on reception
 arrow_accept,Accept arrows from others
 arrow_color,Your color
 remove,Remove
+past_games,Number of past games to be analyzed
+for_premium,Only for premium members
 save_settings,Save settings to server
 win_small,win
 loss_small,loss
@@ -182,7 +187,7 @@ tendency,Tendencies
 rate_history,Rate History
 data_table,Data Table
 status,Status
-msg_newlogin,\n- Double click names to see Player Info. (Also [***] in chat window)\n- Double click games to watch.\n- Play 5 rated games, and your rating will be determined!
+msg_newlogin,\n- Double click names to see Player Info. (Also [***] in chat window)\n- Double click games to watch.\n- Play 5 rated games, and your rating will be determined!\n- If the registered rating was much lower than your actual strength, you must reset properly.\n- You can register only your home country or residing country.
 msg_host,You are the host of Study Mode. Your board is shared.
 msg_subhost,You are a sub-host of study mode. You can move the host's pieces.
 msg_subhost_given,You are given Study sub-host status. You can move the host's pieces.
@@ -205,6 +210,8 @@ C002,The opponent is already starting a game.
 C003,The opponent did not respond within time limit.
 C004,The opponent rejected your challenge.
 C005,Challenge accepted!
+C006,You received a challenge, but s/he canceled.
+C007,Opponent disconnected.
 C010, is not accepting invitation now.
 C011, is already playing a game.
 C012, is in challenge/invite process with someone else.
@@ -236,6 +243,10 @@ L000,Name or password is wrong.
 L001,Cannot login.
 L002,Override login failed.
 L003,Login failed.
+L004,Account not activated yet.
+T000,Which position do you think was the key point?
+T001,Please excuse my skipping/leaving the analysis.
+T002,Thank you for the game. Have a nice day.
 V000,Direct voice-chat connected!
 V001,'s public voice-chat received!
 V002,Quit listening.
