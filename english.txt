@@ -1,6 +1,8 @@
 ﻿LANGUAGE,English
 loginname,Login Name
 password,Password
+registered,Member
+guest,Guest
 language,Language
 server,Server
 description,Description
@@ -57,10 +59,13 @@ status_tip_broadcast,Broadcasting
 status_tip_listen,Listening to your public voice-chat
 status_tip_host,Host of the study-mode
 position_query,Look up the position
+query_material,Material balance calculation
+query_precedent,Precedent games search
 clear_arrows,Clear Arrows
 arrow,Arrow
 clear,Clear
 greet,Greet
+chat_template,Auto-translated templates
 check_lobby,Check Lobby
 check_lobby_tip,This button is only to see the lobby temporarily while staying in this room. You will not leave the room. 'Back to Game' button appears in the Lobby.
 stat_m,Monitoring
@@ -138,6 +143,12 @@ arrow_accept,Accept arrows from others
 arrow_color,Your color
 remove,Remove
 past_games,Number of past games to be analyzed
+study_fitness,Self-statement regarding online post-game analysis
+study_level,interest in p. g. analysis
+english_level,English skills
+not_defined,undefined
+study_level_tip,[Level 0]　I never do it.\n[Level 1]　I don't do it very often, but I'd basically do it if the opponent wants to.\n[Level 2]　I like post-game analysis. I always want to do it as far as the opponent agrees to.
+english_level_tip,[Level 0]　No English!\n[Level 1]　My English is bad, but I could try and do it a little bit.\n[Level 2]　I can basically communicate in English without big problem. (Or higher)
 for_premium,Only for premium members
 save_settings,Save settings to server
 win_small,win
@@ -174,7 +185,7 @@ hc_openair,Open-air Shogi
 hc_mini,Mini Shogi
 hc_56,GoroGoro Shogi
 hc_33,3x3 Shogi
-tournament,Official Tournament
+tournament,Tournament Room
 study_room,Study Room
 load_kifu,Load
 comment,Comment
@@ -187,7 +198,8 @@ tendency,Tendencies
 rate_history,Rate History
 data_table,Data Table
 status,Status
-msg_newlogin,\n- Double click names to see Player Info. (Also [***] in chat window)\n- Double click games to watch.\n- Play 5 rated games, and your rating will be determined!\n- If the registered rating was much lower than your actual strength, you must reset properly.\n- You can register only your home country or residing country.
+msg_newlogin,\n- Double click names to see Player Info. (Also [***] in chat window)\n- Double click games to watch.\n- Play 5 rated games against someone whose rating is already fixed, and your rating will be determined!\n- If the registered rating was much lower than your actual strength, you must reset properly.\n- You can register only your home country or residing country.
+msg_guestlogin,- The orange ◆ mark on the Player List on the left indicates your guest account.\n- To watch a game and view a player's info, please double-click on the lists.\n- Guests can only use limited functions of 81Dojo. Please see the comparison table between a guest and a registered player. --> http://81dojo.com/documents/Guest_Login_System
 msg_host,You are the host of Study Mode. Your board is shared.
 msg_subhost,You are a sub-host of study mode. You can move the host's pieces.
 msg_subhost_given,You are given Study sub-host status. You can move the host's pieces.
@@ -204,8 +216,11 @@ msg_disconnect_alert2,Declaration is automatically made after 300 seconds.
 msg_addlist,Added to the list temporarily. Go to Option Window to set it permanent or cancel.
 msg_addlist_favorite,Added to the favorite list temporarily. Go to Option Window to set it permanent or cancel.
 msg_addlist_block,Added to the block list temporarily. Go to Option Window to set it permanent or cancel.
+msg_before_upgrade,You have a chance of rank promotion now. Win against someone who has a fixed rating higher than (yours - 200), and you will be promoted.
+msg_before_downgrade,Your rating is at the bottom of the rank now. You may be demoted if you lose the next game.
+msg_guest_expire,The number of games played per day has reached the limit. Please register an account (free of charge) to continue playing.
 C000,The opponent is in challenge/invite process with someone else.
-C001,Cannot challenge, because a server maintenance will be held soon.
+C001,Cannot start games. Server maintenance will be held soon.
 C002,The opponent is already starting a game.
 C003,The opponent did not respond within time limit.
 C004,The opponent rejected your challenge.
@@ -233,7 +248,9 @@ G012,: Pieces set to Blind, Hard.
 G013,: Pieces set to Blind, Extreme.
 G014, is playing with blind pieces, Middle.
 G015, is Playing with blind pieces, Hard.
-G016, is Playing with blind pieces, Extreme
+G016, is Playing with blind pieces, Extreme.
+G020, will be promoted if he wins this game.
+G021, will be demoted if he loses this game.
 G050,: Standing-by for rematch.
 G100,: Blocked watchers' chat.
 G101,: Receiving watchers' chat.
@@ -244,9 +261,20 @@ L001,Cannot login.
 L002,Override login failed.
 L003,Login failed.
 L004,Account not activated yet.
-T000,Which position do you think was the key point?
-T001,Please excuse my skipping/leaving the analysis.
+T000,Which position could've been the key point?
+T001,Excuse me, but I will leave now.
 T002,Thank you for the game. Have a nice day.
+T003,Could we analyze from the beginning?
+T004,Could we analyze a little bit?
+T005,What could've been the right move here?
+T006,How about this move?
+T007,This position seems better for me.
+T008,This position seems equal.
+T009,This is another equal game.
+T010,This position seems not easy for me.
+T011,This position seems bad for me.
+T012,Excuse me for interrupting the analysis, but I have to leave now.
+T013,Now, it's about time I'll be leaving.
 V000,Direct voice-chat connected!
 V001,'s public voice-chat received!
 V002,Quit listening.
