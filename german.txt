@@ -44,24 +44,24 @@ impasse,Impasse?
 flip,Brett wenden
 close_game,Schließen
 rematch,Revanche
-voice,Voice-Chat
+voice,Audio-Chat
 voice_direct,Nachspiel Analyse (direct)
 voice_shared,Nachspiel Analyse (öffentl.)
 voice_broadcast,An Übertragung teilnehmen
 voice_listen,Zuhören
 voice_off,Verbindung trennen
 status_tip_self,ich
-status_tip_direct,Direktes Nachspiel Voice-Chat
-status_tip_shared,Öffentliches Nachspiel Voice-Chat
+status_tip_direct,Direktes Nachspiel Audio-Chat
+status_tip_shared,Öffentliches Nachspiel Audio-Chat
 status_tip_broadcast,Übertragend
-status_tip_listen,Dein Voice-Chat zuhörend
-status_tip_host,Führer des Analyse-Modus
+status_tip_listen,Dein Audio-Chat zuhörend
+status_tip_host,Leiter des Analyse-Modus
 clear_arrows,Pfeile löschen
 arrow,Pfeil
 clear,Löschen
 greet,Grüße
-check_lobby,Spielsaal schauen
-check_lobby_tip,Diese Taste ermöglicht, den Spielsaal temporär zu schauen, ohne den Spielraum zu verlassen. Du wird eigentlich in diesem Raum bleiben. 'Zurück zum Spiel' Taste wird im Spielsaal erscheinen.
+check_lobby,Spielsaal besuchen
+check_lobby_tip,Diese Taste ermöglicht, den Spielsaal vorübergehend zu besuchen, ohne den Spielraum zu verlassen. Du bleibst genaugenommen in diesem Raum. Die Taste 'Zurück zum Spiel' wird im Spielsaal erscheinen.
 stat_m,Beobachtend
 stat_w,Wartend
 stat_p,Nachspiel
@@ -77,23 +77,23 @@ allow_chat,Chat der Beobachter empfangen
 kifu,Kifu
 copy,Kifu kopieren
 save,Kifu speichern
-replay,Lokale Nachspl./Analyse
-listen,Aktuelle Position folgen
-replay_tip,Du kannst nur in deinem PC nachspielen/analysieren. Das Brett wird nicht geteilt, außer wenn du der Führer des Analyse-Modus bist.
-listen_tip,Die letzte Position wird angezeigt, wenn du das Spiel beobachtest. Das Brett des Führer des Analyse-Modus wird angezeigt, wenn ihr im Nachspiel analysiert. Pfeile werden auch geteilt.
+replay,Lokales Nachspl./Analyse
+listen,Aktueller Position folgen
+replay_tip,Du spielst/analysierst auf deinem eigenen PC. Dein Brett wird nicht veröffentlicht, außer wenn du der Leiter im Analyse-Modus bist.
+listen_tip,Die letzte Position der beobachtenden Partie wird angezeigt. Das Brett des Spielleiters wird veröffentlicht. Pfeile werden auch veröfentlicht.
 search_panel,Suche
 kifu_search,Kifu Suche
-share,Teilen
+share,Veröffentlichen
 close,Schließen
 result,Ergebnis
 opening,Eröffnung
 moves,Züge
 game_date,Datum
-player_search,Spieler Suche
+player_search,Spielersuche
 win,Sieg
 loss,Niederlage
 draw,Remis
-total,Total
+total,Gesamt
 percentage_short,% Siege
 streak_short,Siegessträhne
 signed_up,Registriert
@@ -105,15 +105,15 @@ wins,Siege
 total_games,Partien gesamt
 accept,Annehmen
 reject,Ablehnen
-invitation,Invitation
-set_autoreply,Automatische Nachricht
+invitation,Einladen
+set_autoreply,Automatische Antwort
 will_be_back_in,Bin zurück in
 hours,Stunden
 minutes,Minuten
 message,Nachricht
 cancel,Abbrechen
 pieces,Steine
-blind_piece,Blindstein
+blind_piece,Blind
 op_grab,Stein beim Zug greifen
 op_highlight,Zugmöglichkeiten anzeigen
 sound,Sound
@@ -126,11 +126,11 @@ byoyomi_jp,Japanisch
 game_room,Spielraum
 pm,Private Nachricht
 communication,Kommunikation
-notation,Bezeichnung Stil
+notation,Bezeichnung
 notation_uni,Universal
 notation_jp,Japanisch
 notation_west,Westlich
-pm_auto,Fenster bei Empfang automatisch öffnen
+pm_auto,Fenster bei Nachricth automatisch öffnen
 arrow_accept,Pfeile von anderen akzeptieren
 arrow_color,Deine Farbe
 remove,entfernen
@@ -138,20 +138,20 @@ save_settings,Einstellungen speichern
 win_small,Siege
 loss_small,Niederl.
 current,Aktuell
-invite,Invite
+invite,Einladen
 detail,Detail
 favorite,Favorit
 ignore,Ignorieren
 allow,Erlauben
-give_host,Führer-Status übergeben
-give_subhost,Beiführer-Status geben
+give_host,Spielleiter-Status übergeben
+give_subhost,Mitspiel-Status geben
 set_rate,Rang setzen
 rated,Gewertet
 nonrated,Ungewertet
 min,Min
 sec,Sek
-hc_even,Even Game
-hc_fixed,Bestimmtes Schwarz
+hc_even,Gleichauf
+hc_fixed,Anzugsvorteil
 hc_lance,Lanze Vorgabe
 hc_bishop,Läufer Vorgabe
 hc_rook,Turm Vorgabe
@@ -163,8 +163,8 @@ hc_6p,6-Steine Vorgabe
 hc_8p,8-Steine Vorgabe
 hc_tombo,Libelle
 hc_10p,10-Steine Vorgabe
-hc_3pawns,Drei Bauer
-hc_naked,Nackter König
+hc_3pawns,Drei Bauern
+hc_naked,Blanker König
 hc_openair,Open-air Shogi
 hc_mini,Mini Shogi
 hc_56,GoroGoro Shogi
@@ -174,70 +174,74 @@ study_room,Studierraum
 load_kifu,Laden
 comment,Kommentar
 declare,Sieg reklamieren
-entered_impasse,Eingetreten
+entered_impasse,Vorgerückt
 pieces_impasse,Figuren
 points_impasse,Punkte
 error,Fehler
 tendency,Tendenz
-rate_history,Rating Geschichte
+rate_history,Rating Verlauf
 data_table,Daten Tabelle
 status,Status
-msg_newlogin,\n- Namen doppelklicken, um das Detail des Spielers zu schauen. (Auch den Namen im Chat-Fenster)\n- Partie doppelklicken, um sie zu beobachten.\n- Dein Rang wird festgesetzt werden, wenn du 5 gewertete Partien gespielt hast.
-msg_host,Du bist jetzt der Führer des Analyse-Modus. Dein Brett wird geteilt.
-msg_subhost,Du bist jetzt ein Beiführer des Analyse-Modus. Du kannst auch auf dem Brett des Führers die Figuren ziehen.
-msg_subhost_given,Du hast den Beiführer-Status bekommen. Du kannst jetzt auf dem Brett des Führers die Figuren ziehen.
-msg_study_notify,Die Position des Analyse-Modus hat sich verändert. Study-position is changed. Wähle 'Actuelle Position' Modus, um sie zu schauen.
-msg_rated,Diese Partie ist gewertet.\nDie Spieler können die Chats von Beobachtern NICHT lesen, bis das Spiel endet.\nBeobachter können PM an die Spieler schicken, aber es wird anderen mitgeteilt werden.
-msg_nonrated,Diese Partie ist ungewertet.\nDie Spieler KÖNNEN die Chats von Beobachtern lesen, auch wenn das Spiel gerade gespielt ist.
-msg_disconnect,Gegner ist getrennt.
+msg_newlogin,\n- Spielernamen doppelklicken, um Details zu sehen. (Auch im Chat-Fenster möglich)\n- Partie doppelklicken, um sie zu beobachten.\n- Dein Rang wird dir zugeteilt, wenn du 5 gewertete Partien gespielt hast.
+msg_host,Du bist jetzt der Leiter des Analyse-Modus. Dein Brett wird veröffentlicht.
+msg_subhost,Du bist ein Helfer des Analyse-Modus. Du kannst auch für andere sichtbar die Figuren ziehen.
+msg_subhost_given,Du bist jetzt ein Helfer des Analyse-Modus. Du kannst jetzt auch für andere sichtbar die Figuren ziehen.
+msg_study_notify,Die Stellung des Analyse-Modus hat sich verändert. Wähle 'Aktuelle Position' um sie zu sehen.
+msg_rated,Diese Partie wird gewertet.\nDie Spieler können die Chats der Beobachter NICHT lesen, bis das Spiel beendet ist.\nBeobachter können PMs an die Spieler schicken, was den anderen mitgeteilt wird.
+msg_nonrated,Diese Partie wird nicht gewertet.\nDie Spieler KÖNNEN die Chats der Beobachter lesen, auch wenn das Spiel gerade gespielt wird.
+msg_disconnect,Gegner hat die Verbindung verloren.
 msg_illegal,Illegaler Zug.
-msg_perpetual,Illegales ewiges Check.
-msg_repetition,Sennichite. (Wiederholung)
-msg_lag,Dein Timer ist durch der PC-Belastung mehr als 5 Sekunden verspätet. Es ist möglich, dass du mit Time-up verlierst, bevor dein Timer Null zeigt.
-msg_disconnect_alert1,Du darfst nach 30 Sekunden Sieg reklamieren, oder du kannst weiter auf den Gegner warten.
-msg_disconnect_alert2,Aber der Sieg ist automatisch reklamiert in 300 Sekunden.
-msg_addlist,Vorübergehend in die Liste hinzugefügt. Gehe zum Optionen-Fenster, um es zu speichern oder zu abbrechen.
-msg_addlist_favorite,Vorübergehend in die Favorit-Liste hinzugefügt. Gehe zum Optionen-Fenster, um es zu speichern oder zu abbrechen.
-msg_addlist_block,Vorübergehend in die Blockieren-Liste hinzugefügt. Gehe zum Optionen-Fenster, um es zu speichern oder zu abbrechen.
-C000,Der Gegner ist gerade dabei, jemand anderem herauszufordern oder ihn einzuladen.
-C001,Herausforderung fehlt.
-C002,Der Gegner hat schon eine Partie angefangen.
-C003,Der Gegner hat nicht fristgerecht geantwortet.
+msg_perpetual,Illegales ewiges Schach.
+msg_repetition,Sennichite. (Stellungswiederholung)
+msg_lag,Deine Verbindung ist aufgrund PC-Belastung langsamer als 5 Sekunden. Es kann passieren, dass du auf Zeit verlierst, bevor deine Zeit abgelaufen ist.
+msg_disconnect_alert1,Du darfst nach 30 Sekunden warten den Sieg reklamieren, oder kannst weiter auf den Gegner warten.
+msg_disconnect_alert2,Allerdings wird der Sieg nach 300 Sekunden automatisch reklamiert.
+msg_addlist,Ist vorübergehend in die Liste hinzugefügt. Gehe zum Optionen-Fenster, um es dauerhaft zu speichern.
+msg_addlist_favorite,Ist vorübergehend in die Favorit-Liste hinzugefügt. Gehe zum Optionen-Fenster, um es dauerhaft zu speichern.
+msg_addlist_block,Ist vorübergehend in die Block-Liste hinzugefügt. Gehe zum Optionen-Fenster, um es dauerhaft zu speichern.
+C000,Der Gegner ist gerade dabei, jemand anderen herauszufordern oder einzuladen.
+C001,Derzeit sind keine Forderungen möglich, da in kürze Wartungsarbeiten durchgeführt werden.
+C002,Der Gegner hat schon eine Partie begonnen.
+C003,Der Gegner hat nicht rechtzeitig geantwortet.
 C004,Der Gegner hat deine Herausforderung abgelehnt.
 C005,Herausforderung angenommen!
-C010, nimmt jetzt Einladungen nicht an.
-C011, hat schon eine Partie angefangen.
-C012, ist gerade dabei, jemand anderem herauszufordern oder ihn einzuladen.
-C013, hat nicht fristgerecht geantwortet.
+C010, nimmt derzeit keine Einladungen an.
+C011, hat schon eine Partie begonnen.
+C012, ist gerade dabei, jemand anderen herauszufordern oder einzuladen.
+C013, hat nicht rechtzeitig geantwortet.
 C014, hat deine Herausforderung abgelehnt.
 C015, hat deine Herausforderung abgelehnt. (Beschäftigt)
-C016, hat deine Herausforderung abgelehnt. (Andere Regeloptionen bevorzugend)
-C017, hat deine Herausforderung abgelehnt. (Kürzeres Spiel bevorzugend)
-C018, hat deine Herausforderung abgelehnt. (Längeres Spiel bevorzugend)
-C019, hat deine Herausforderung abgelehnt. (Gewertetes Spiel bevorzugend)
+C016, hat deine Herausforderung abgelehnt. (Andere Regeloptionen gewünscht)
+C017, hat deine Herausforderung abgelehnt. (Kürzeres Spiel gewünscht)
+C018, hat deine Herausforderung abgelehnt. (Längeres Spiel gewünscht)
+C019, hat deine Herausforderung abgelehnt. (Gewertetes Spiel gewünscht)
 C020, hat deine Herausforderung abgelehnt. (Auf jemand anderen wartend)
-G000,: Brett des Führers verlassen.
-G001,: Zurück zum Brett des Führers.
+G000,: Brett des Spielleiters verlassen.
+G001,: Zurück zum Brett des Spielleiters.
 G002,
-G003,: Zweigzüge gelöscht.
-G010,: Normale Steine wieder ausgewählt.
-G011,: Unsichtbare Steine 'Middle' ist ausgewählt.
-G012,: Unsichtbare Steine 'Hard' ist ausgewählt.
-G013,: Unsichtbare Steine 'Extreme' ist ausgewählt.
-G014, spielt mit unsichtbaren Steinen 'Middle'.
-G015, spielt mit unsichtbaren Steinen 'Hard'.
-G016, spielt mit unsichtbaren Steinen 'Extreme'.
+G003,: Variantenzüge gelöscht.
+G010,: Standardsteine wieder auswählen.
+G011,: Unsichtbare Steine 'Normal' auswählen.
+G012,: Unsichtbare Steine 'Schwer' auswählen.
+G013,: Unsichtbare Steine 'Extrem' auswählen.
+G014, spielt mit unsichtbaren Steinen 'Normal'.
+G015, spielt mit unsichtbaren Steinen 'Schwer'.
+G016, spielt mit unsichtbaren Steinen 'Extrem'.
 G050,: Bereit für eine Revanche.
 G100,: Chats von Beobachtern blockierend.
 G101,: Chats von Beobachtern empfangend.
 G102, blockiert jetzt Chats von Beobachtern.
 P000, hat an deinen Gegner eine PM gesendet.
 L000,Falscher Name oder Passwort.
-L001,Login fehlt.
+L001,Anmeldung nicht möglich.
 L002,Überschreibendes Login fehlt.
-L003,Login fehlt.
-V000,Direktes Voice-Chat verbunden!
-V001,s öffentliches Voice-Chat ist empfangen!
-V002,Aufgehört, zuzuhören
-V003,Verbindung zu öffentlichem Voice-Chat anfordern...
-V004,Zugriffsanforderung ist den Spielern gesendet.
+L003,Anmeldung misslungen.
+L004,Account nicht aktiviert.
+T000,Was war der Schlüsselzug?
+T001,Entschuldige, dass ich die Analyse verlasse.
+T002,Danke für die Partie. Wüsche einen schöen Tag.
+V000,Mit Audio-Chat verbunden!
+V001,s öffentlichen Audio-Chat empfangen!
+V002,Audio-Chat Empfang beenden.
+V003,Verbindung zu öffentlichem Audio-Chat anfordern...
+V004,Erlaubnis um Empfang des Audio-Chats angefragt.
