@@ -14,6 +14,7 @@ lobby,Main Lobby
 refresh,Refresh Lists
 wait,Wait for Game
 stop,Stop Waiting
+reject_invitation,No Invitation
 challenge,Challenge
 options,Options
 search,Search
@@ -81,8 +82,9 @@ stat_d,Disconnected
 watchers,Watchers
 allow_chat,Receive watcher's chat
 kifu,Kifu
-copy,Copy to Clipboard as KIF
-save,Save to KIF
+copy,Copy to clipboard as KIF
+save,Save to KIF file
+load,Load KIF/BOD file to study-room
 replay,Replay/analyze locally
 listen,Follow latest position
 replay_tip,Replay/analyze only on own PC. The board is not shared unless you are the host of post-game discussion.
@@ -111,6 +113,9 @@ wins,Wins
 total_games,Total Games
 accept,Accept
 reject,Reject
+reject_reason,with reason
+decline,Decline
+decline_reason,with reason
 invitation,Invitation
 set_autoreply,Set auto-reply message
 will_be_back_in,Will be back in
@@ -147,7 +152,7 @@ study_fitness,Self-statement regarding online post-game analysis
 study_level,interest in p. g. analysis
 english_level,English skills
 not_defined,undefined
-study_level_tip,[Level 0]　I never do it.\n[Level 1]　I don't do it very often, but I'd basically do it if the opponent wants to.\n[Level 2]　I like post-game analysis. I always want to do it as far as the opponent agrees to.
+study_level_tip,[Level 0]　I never do it online.\n[Level 1]　I don't do it very often, but I'd basically do it if the opponent wants to.\n[Level 2]　I like post-game analysis. I always want to do it as far as the opponent agrees to.
 english_level_tip,[Level 0]　No English!\n[Level 1]　My English is bad, but I could try and do it a little bit.\n[Level 2]　I can basically communicate in English without big problem. (Or higher)
 for_premium,Only for premium members
 save_settings,Save settings to server
@@ -184,11 +189,15 @@ hc_naked,Naked King
 hc_openair,Open-air Shogi
 hc_mini,Mini Shogi
 hc_56,GoroGoro Shogi
+hc_zoo,Catch the Lion
 hc_33,3x3 Shogi
 tournament,Tournament Room
 study_room,Study Room
 load_kifu,Load
 comment,Comment
+private_room,Private game room
+enter_pass,Enter password.
+pass_invalid,Wrong password. Cannot enter the room.
 declare,Declare Win
 entered_impasse,Entered
 pieces_impasse,Pieces
@@ -207,11 +216,12 @@ msg_study_notify,Study-position is changed. Back to Listen Mode to update.
 msg_rated,This game is Rated.\nPlayers CANNOT see watcher's chat until the game ends.\nWatcher can PM to players, but it will be notified to others.
 msg_nonrated,This game is Non-rated.\nPlayers CAN see watcher's chat even during game.
 msg_disconnect,Opponent disconnected.
+msg_disconnect_self,You are disconnected from the server. The applet is no longer active. Please reload the applet to login again and continue.\nDo you want to reload immidately?
 msg_illegal,Illegal move.
 msg_perpetual,Perpetual Check.
 msg_repetition,Sennichite. (Repetition)
 msg_lag,Your timer is lagging by more than 5 sec due to CPU load. Time-up loss can occur earlier than your timer hits zero.
-msg_disconnect_alert1,You can declare win after 30 seconds, or keep waiting.
+msg_disconnect_alert1,You can declare win after 60 seconds, or keep waiting.
 msg_disconnect_alert2,Declaration is automatically made after 300 seconds.
 msg_addlist,Added to the list temporarily. Go to Option Window to set it permanent or cancel.
 msg_addlist_favorite,Added to the favorite list temporarily. Go to Option Window to set it permanent or cancel.
@@ -242,6 +252,7 @@ G000,: Leaving Host's position.
 G001,: Back to Host's position.
 G002,
 G003,: Erased branch moves.
+G004,: Loading a new position...
 G010,: Pieces set back to normal.
 G011,: Pieces set to Blind, Middle.
 G012,: Pieces set to Blind, Hard.
@@ -261,6 +272,7 @@ L001,Cannot login.
 L002,Override login failed.
 L003,Login failed.
 L004,Account not activated yet.
+L005,Connection to the server failed.
 T000,Which position could've been the key point?
 T001,Excuse me, but I will leave now.
 T002,Thank you for the game. Have a nice day.
@@ -274,7 +286,8 @@ T009,This is another equal game.
 T010,This position seems not easy for me.
 T011,This position seems bad for me.
 T012,Excuse me for interrupting the analysis, but I have to leave now.
-T013,Now, it's about time I'll be leaving.
+T013,It's about time I'll be leaving.
+T014,Could we play another game?
 V000,Direct voice-chat connected!
 V001,'s public voice-chat received!
 V002,Quit listening.
