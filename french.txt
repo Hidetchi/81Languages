@@ -23,7 +23,7 @@ rank,Grade
 name,Nom
 country,Pays
 rate,Class
-waiter,Joueurs prêts
+waiter,Joueurs disponibles
 country_short,Pays
 thinking_time,Cadence
 handicap,Handicap
