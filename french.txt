@@ -1,112 +1,297 @@
 ﻿LANGUAGE,Français
-loginname,pseudonyme
-password,mot de passe 
-language,langue
-server,Serveur
-players,joueurs
-save_login_info,se souvenir de moi
-login,Entrer
-lobby,Salon
-refresh,Rafraîchir 
-wait,Créer une partie
-stop,Se retirer
-challenge,Défier
-options,Options
-search,Rafraîchir
-mute,Muet
-leave,Faire une pause
-logout,Déconnexion
-back_to_game,Revenir
-status_short,Stat
-title,Titre
-rank,Grade
-name,Nom
-country,Pays
-rate,Class
-waiter,Joueurs disponibles
-country_short,Pays
-thinking_time,Cadence
-handicap,Handicap
-black,Noir
-white,Blanc
-rule,Règle
-game_status,Statut
-monitor,Spec
-opening_short,Ouv
-watch,Voir la partie
-view_as,Point de vue :
-chat,Chat
-auto_scroll,Défil auto
-resign,Abandonner
-impasse,Impasse?
-flip,Inverser
-close_game,Fermer
-rematch,Revanche
-clear_arrows,Supp. Flèches
-arrow,Flèche
-clear,Effacer
-greet,Greet
-check_lobby,Salon
-watchers,Spectateurs
-kifu,Kifu
-copy,Copier au format .kif
-save,Sauvegarder
-replay,Rejouer
-listen,Regarder
-search_panel,Options de recherche
-kifu_search,Recherche de kifu
-share,Partager
-close,Fermer
-result,Resultat
-opening,Ouverture
-moves,Coups
-game_date,Date
-player_search,Recherche de joueurs
-win,Victoire
-loss,Défaite
-draw,Nulle
-total,Total
-percentage_short,% victoire
-streak_short,Série de victoires
-signed_up,Inscription
-last_updated,Dernière partie
-view_rankings,Classements
-streak,Meilleure série de victoires
-percentage,Pourcentage de gains
-wins,Victoires
-total_games,Nombre de parties
 accept,Accepter
-reject,Rejeter
-invitation,Invitation
-set_autoreply,Message de réponse automatique
-will_be_back_in,De retour dans
-hours,heures
-minutes,minutes
-message,message
-cancel,Annuler
-sound,Audio
-blind_piece,à l'aveugle
-save_settings,Sauvegarder les paramètres
-win_small,victoires
-loss_small,défaites
-current,Actuelle
-invite,Inviter
-detail,Détails
-favorite,Favoris
-ignore,Ignorer
+alive,Alive
 allow,Autoriser
-set_rate,Choisir rang
-rated,Classée
-nonrated,Non classée
-tournament,Tournament officiel
-study_room,Étude de partie
+allow,Donner les droits du mode analyse
+allow_chat,Recevoir le chat de l'observateur
+arrow,Flèche
+arrow_accept,Accepter les flèches des autres
+arrow_color,Votre couleur
+auto_scroll,Défil auto
+back_to_game,Revenir
+black,Noir
+blind_piece,à l'aveugle
+byoyomi_chime,Bip
+byoyomi_jp,Japonais
+C000,Votre adversaire a été défié/invitez quelqu'un d'autre
+C001,Démarrage de partie impossible. Une maintenance des serveurs va bientôt démarrer.
+C002,Votre adversaire a déjà commencé une autre partie.
+C003,Votre adversaire n'a pas répondu dans la limite de temps impartie.
+C004,Votre adversaire n'a pas accepté votre défi.
+C005,Défi accepté!
+C006,Vous avez été défié, mais il a été annulé.
+C007,Adversaire déconnecté.
+C010, n'accepte pas d'invitation pour le moment.
+C011, joue déjà une partie.
+C012, a été défié/ Invitez un autre joueur.
+C013, n'a pas répondu dans la limite de temps impartie.
+C014, a décliné l'invitation.
+C015, a décliné l'invitation. (Occupé)
+C016, a décliné l'invitation. (Préfère d'autres règles)
+C017, a décliné l'invitation. (Préfère une partie plus courte)
+C018, a décliné l'invitation. (Préfère une partie plus longue)
+C019, a décliné l'invitation. (Préfère une partie classante)
+C020, a décliné l'invitation. (Attend un autre adversaire)
+cancel,Annuler
+challenge,Défier
+chat,Chat
+chat_template,Formulaires auto-traduits
+check_lobby,Salon
+check_lobby_tip,Ce bouton sert seulement à observer temporairement le Salon tout en demeurant dans cette salle. Vous ne quitterez pas la salle. Le bouton 'retour à la partie' apparaitra dans le Salon.
+clear,Effacer
+clear_arrows,Supp. Flèches
+close,Fermer
+close_game,Fermer
 comment,Commentaire
-declare,Réclamer le gain
-entered_impasse,Entré
-pieces_impasse,Pièces
-points_impasse,Points
-error,Erreur
-tendency,Tendances
-rate_history,Évolution
+communication,Communication
+copy,Copier au format .kif
+country,Pays
+country_short,Pays
+current,Actuelle
 data_table,Table données
+declare,Réclamer le gain
+decline,Décliner
+decline_reason,avec une raison
+description,Description
+detail,Détails
+draw,Nulle
+english_level,Niveau d'Anglais
+english_level_tip,[Niv. 0]　Ne comprend pas l'Anglais!\n[Niv. 1]　Mon Anglais est mauvais, mais je peux essayer de parler un peu.\n[Niv. 2]　J'arrive à communiquer en Anglais sans gros souci. (Ou mieux)
+enter_pass,Entrez le mot de passe.
+entered_impasse,Entré
+error,Erreur
+favorite,Favoris
+flip,Inverser
+for_premium,Seulement pour les membres premium
+G000,: Quitter la position d'Hôte.
+G001,: Retour à la position d'Hôte.
+G002,
+G003,: Suppression de la variante.
+G004,: Chargement d'une nouvelle position...
+G010,: Replacement normal des pièces.
+G011,: Placement des pièces à l'aveugle, niv. moyen.
+G012,: Placement des pièces à l'aveugle, niv. difficile.
+G013,: Placement des pièces à l'aveugle, niv. extrême.
+G014, joue avec les pièces à l'aveugle, niveau moyen.
+G015, joue avec les pièces à l'aveugle, niveau difficile.
+G016, joue avec les pièces à l'aveugle, niveau extrême.
+G020, sera promu s'il gagne la partie.
+G021, sera dégradé s'il perd la partie.
+G050,: En attente de la revanche.
+G100,: Chat des spectateurs bloqué.
+G101,: Chat des spectateurs accepté.
+G102, interdit le chat des spectateurs.
+game_date,Date
+game_room,Salle de jeu
+game_status,Statut
+give_host,Assume le statut d'Hôte
+give_subhost,Autorise le statut de sous-hôte
+greet,Saluer
+guest,Invité
+handicap,Handicap
+hc_10p,Handicap 10 pièces
+hc_2p,Handicap 2 pièces
+hc_33,Shogi 3x3
+hc_3pawns,Trois pions
+hc_4p,Handicap 4 pièces
+hc_56,GoroGoro Shogi
+hc_6p,Handicap 6 pièces
+hc_8p,Handicap 8 pièces
+hc_bishop,Handicap Fou
+hc_even,Partie à égalité
+hc_fixed,Handicap initiative
+hc_lance,Handicap Lance
+hc_mini,Mini Shogi
+hc_naked,Roi seul
+hc_openair,Shogi sans pions (Ao-zora)
+hc_rook,Handicap Tour
+hc_rooklance,Handicap Tour+Lance
+hc_rooksilver,Handicap Tour+Argent
+hc_tombo,Handicap L+K+G+S (Libellule)
+hc_zoo,Dobutsu Shogi
+hours,heures
+ignore,Ignorer
+impasse,Impasse
+invitation,Invitation
+invite,Inviter
+kifu,Kifu
+kifu_search,Recherche de kifu
+L000,Nom ou mot de passe incorrect.
+L001,Impossible de se connecter.
+L002,La tentative de double login a échoué.
+L003,La connection a échoué.
+L004,Compte pas encore activé.
+L005,La connection au serveur a échoué.
+language,langue
+last_updated,Dernière partie
+leave,Faire une pause
+listen,Regarder
+listen_tip,La dernière position est affichée; et le plateau de l'hôte est montré en post-mortem. Les flèches seront aussi partagées.
+load,Charger le fichier KIF/BOD en salle d'analyse
+load_kifu,Charger
+lobby,Lobby principal
+lobby,Salon
+login,Entrer
+loginname,pseudonyme
+logout,Déconnexion
+loss,Défaite
+loss_small,défaites
+message,message
+min,min
+minutes,minutes
+monitor,Spec
+moves,Coups
+msg_addlist,Temporairement ajouté à la liste. Pour le conserver de manière permanente ou pour annuler, aller dans la fenêtre d'options.
+msg_addlist_block,Temporairement ajouté à la liste des bloqués. Pour le conserver de manière permanente ou pour annuler, aller dans la fenêtre d'options.
+msg_addlist_favorite,Temporairement ajouté à la liste des favoris. Pour le conserver de manière permanente ou pour annuler, aller dans la fenêtre d'options.
+msg_before_downgrade,Votre classement est à la limite basse de ce grade. Vous serez dégradé si vous perdez votre prochaine partie.
+msg_before_upgrade,Vous bientôt passer au grade supérieur. Gagnez une partie contre un adversaire de classement fixe supérieur au votre (le votre - 200), et vous serez promu.
+msg_disconnect,Adversaire déconnecté.
+msg_disconnect_alert1,Vous pouvez déclarer victoire après 60 secondes, ou attendre envore.
+msg_disconnect_alert2,La victoire est obtenue automatiquement après 300 secondes.
+msg_disconnect_self,Vous êtes déconnecté du serveur. L'applet n'est plus active. S'il vous plait, rechargez l'applet pour vous connecter à nouveau et continuer.\nVoulez-vous la recharger immédiatement?
+msg_guest_expire,Le nombre de parties autorisées par jour a été atteint. Pour continuer à jouer, veuillez créer un compte (gratuit).
+msg_guestlogin,- La marque orange ◆ à gauche dans la liste des joueurs indique votre compte invité.\n- Pour observer une partie en cours ou voir des infos sur un joueur, veuillez double-cliquer sur les listes.\n- Les invités ont un usqge restreint des fonctionnalités de 81Dojo. Pour plus de détails, consultez la table de comparaison entre joueur invité et enregistré. --> http://81dojo.com/documents/Guest_Login_System
+msg_host,Vous êtes l'hôte du mode analyse de partie. Votre plateau est partagé.
+msg_illegal,Cup illégal.
+msg_lag,Votre compteur a un délai de plus de 5 sec en raison de la charge de votre CPU. Vous êtes susceptible de perdre au temps avant que votre compteur n'indique zéro.
+msg_newlogin,\n- Double cliquez sur les noms pour accéder aux infos sur les joueurs. (aussi [***] dans la fenêtre de chat)\n- Double cliquez sur les parties pour les observer.\n- Jouez 5 parties classantes contre un joueur au classement fixé, et votre niveau sera évalué!\n- Si le classement enregistré est bien inférieur à votre niveau actuel, vous devez le réinitialiser complètement.\n- Vous pouvez vous enregistrer en fonction de votre nationalité ou de votre pays de résidence.
+msg_nonrated,Cette partie n'est pas classante.\nLes joueurs PEUVENT voir le chat des observateurs même pendant la partie.
+msg_perpetual,Echec perpétuel.
+msg_rated,Cette partie est classante.\nLes joueurs NE PEUVENT PAS voir le chat des observateurs avant la fin de la partie.\nLes observateurs peuvent envoyer un message privé aux joueurs, mais les autres seront prévenus.
+msg_repetition,Sennichite. (Répétition)
+msg_study_notify,La position d'analyse est modifiée. Retournez en mode écoute pour mettre à jour.
+msg_subhost,Vous êtes sous-hôte en mode analyse. Vous pouvez déplacer les pièces de l'hôte.
+msg_subhost_given,Vous avez reçu le statut de sous-hôte du mode analyse. Vous pouvez déplacer les pièces de l'hôte.
+mute,Muet
+name,Nom
+nonrated,Non classée
+not_defined,indéfini
+notation,Style de notation
+notation_jp,Japonais
+notation_uni,Universel
+notation_west,Occidental
+op_blind_notify,Indique l'usage du mode aveugle
+op_grab,Récupère la pièce pendant le déplacement
+op_highlight,Indique les cases possibles de déplacement
+opening,Ouverture
+opening_short,Ouv
+options,Options
+P000, a envoyé un message privé à l'adversaire.
+pass_invalid,Mauvais mot de passe. Impossible d'accéder à la salle.
+password,mot de passe
+past_games,Nombre de parties passées à analyser
+percentage,Pourcentage de gains
+percentage_short,% victoires
+pieces,Pièces
+pieces_impasse,Pièces
+player_search,Recherche de joueurs
+players,joueurs
+pm,Message privé
+pm_auto,Ouverture auto de la fenêtre à réception
+points_impasse,Points
+position_query,Recherche la position
+private_room,Salle de jeu privée
+query_material,Calcul de la balance de matériel
+query_precedent,Recherche de la partie précédente
+rank,Grade
+rate,Class
+rate_history,Évolution
+rated,Classée
+refresh,Rafraîchir
+registered,Member
+reject,Rejeter
+reject_invitation,Refus d'invitation
+reject_reason,avec raison
+rematch,Revanche
+remove,Retirer
+replay,Rejouer
+replay_tip,Rejouer/Analyser uniquement sur votre propre PC. Le plateau n'est pas partagé à moins que vous ne soyez l'hôte des discussion post-mortem.
+resign,Abandonner
+result,Résultat
+rule,Règle
+save,Sauvegarder
+save_login_info,se souvenir de moi
+save_settings,Sauvegarder les paramètres
+search,Rechercher
+search_panel,Options de recherche
+sec,sec
+server,Serveur
+set_autoreply,Message de réponse automatique
+set_rate,Choisir rang
+share,Partager
+signed_up,Inscrit
+sound,Audio
+sound_button,Son des boutons
+sound_byoyomi,Son du Byoyomi
+sound_chat,Son de notification d'un chat
+sound_end,Son de début/fin d'une partie
+sound_piece,Son des pièces
+stat_d,Déconnecté
+stat_g,Partie
+stat_g1,Démarrée
+stat_g2,Ouverture
+stat_g3,Milieu de partie
+stat_g4,Milieu/Fin
+stat_g5,Fin de partie
+stat_m,Observation
+stat_p,Post-mortem
+stat_w,Attente
 status,Statut
+status_short,Stat
+status_tip_broadcast,Diffusion
+status_tip_direct,Utilise le chat post-mortem vocal DIRECT
+status_tip_host,Hôte du mode analyse
+status_tip_listen,Ecoute votre chat vocal public
+status_tip_self,Moi
+status_tip_shared,Utilise le chat vocal PUBLIC
+stop,Se retirer
+streak,Meilleure série de victoires
+streak_short,Série de victoires
+study_fitness,Auto-évaluation suite à l'analyse post-mortem
+study_level,intérêt de l'analyse post-mortem
+study_level_tip,[Niv. 0]　Je ne le fais jamais en ligne.\n[Niv. 1]　Je n'ai pas l'habitude de le faire mais l'accepte si mon adversaire me le demande.\n[Niv. 2]　J'aime les analyses post-mortem. Je voudrais le faire systématiquement dans la mesure où mon adversaire l'accepte.
+study_room,Étude de partie
+T000,Quelle fut la position décisive?
+T001,Excusez-moi, mais je vais devoir quitter maintenant.
+T002,Merci pour la partie. Passez une bonne journée.
+T003,Pouvons-nous analyser depuis le début?
+T004,Pourrions-nous faire une courte analyse?
+T005,Quel aurait pu être le bon coup ici?
+T006,Que pensez-vous de ce coup?
+T007,Cette position semble meilleure pour moi.
+T008,Cette positon semble équilibrée.
+T009,C'est un autre jeu équilibré.
+T010,Cette position ne semble pas facile pour moi.
+T011,Cett eposition semble mauvaise pour moi.
+T012,Excusez-moi d'interrompre l'analyse, Mais je dois quitter maintenant.
+T013,C'est l'heure à laquelle je dois quitter.
+T014,Pourrions-nous jouer une autre partie?
+tendency,Tendances
+thinking_time,Cadence
+title,Titre
+total,Total
+total_games,Nombre de parties
+tournament,Salle de tournoi
+V000,Chat vocal direct connecté!
+V001,chat vocal public reçu!
+V002,Arrêter l'écoute.
+V003,Demander à rejoindre le chat vocal public...
+V004,Demander aux joueurs de rejoindre leur chat vocal post-mortem.
+view_as,Point de vue :
+view_rankings,Classements
+voice,Chat vocal
+voice_broadcast,Rejoindre la diffusion
+voice_direct,Analyse post-mortem (Direct)
+voice_listen,Ecouter
+voice_off,Couper la connection
+voice_shared,Analyse post-mortem (Public)
+wait,Créer une partie
+waiter,Joueurs disponibles
+watch,Voir la partie
+watchers,Spectateurs
+white,Blanc
+will_be_back_in,De retour dans
+win,Victoire
+win_small,victoires
+wins,Victoires
