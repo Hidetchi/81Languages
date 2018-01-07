@@ -60,7 +60,7 @@
     "rank": "Rang",
     "name": "Naam",
     "country": "Land",
-    "rate": "Percentage",
+    "rate": "Rating",
     "waiter": "Wachtende Speler",
     "thinking_time": "Bedenktijd",
     "handicap": "Handicap",
@@ -359,7 +359,7 @@
   },
   "clock": {
     "utc": "UTC",
-    "cet": "Frankfurt",
+    "cet": "Amsterdam",
     "moscow": "Moscow",
     "mumbai": "Mumbai",
     "bangkok": "Bangkok",
