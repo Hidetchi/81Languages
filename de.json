@@ -282,6 +282,7 @@
     "reconnect_only": "You can only recconect to the game you disconnected from.\nIf your game had already ended, re-login to clear your 'D' status.",
     "reconnect_while_game": "Stop waiting for game before you reconnect.",
     "suggest_invitation": "Opponent is not waiting for a game. Invite to your game?",
+    "before_player_unload": "You are playing a game right now. If you repeatedly disconnect on purpose while playing, you will be banned from the site.",
     "mobile": "This function is invalid for this user using the mobile app."
   },
   "code": {

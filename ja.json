@@ -58,7 +58,6 @@
     "stat_d_tip": "対局中接続切れ",
     "title": "タイトル",
     "rank": "段級位",
-    "rank_exp": "レベル",
     "name": "ハンドルネーム",
     "country": "国名",
     "rate": "レート",
@@ -71,7 +70,6 @@
     "game_status": "進行",
     "monitor": "観戦",
     "opening_short": "戦型",
-    "watch": "観戦",
     "chat": "チャット"
   },
   "board": {
@@ -186,7 +184,6 @@
     "byoyomi_yamato": "女流棋士読み上げ (高橋和女流三段)",
     "byoyomi_noto": "yetAnother製「萌えるチェスクロ」サンプル音源 (能登麻美子)",
     "byoyomi_chime": "チャイム",
-    "byoyomi_jp": "日本語音声",
     "pm": "プライベートメッセージ",
     "communication": "通信",
     "notation": "棋譜法",
@@ -221,7 +218,6 @@
     "nonrated": "非レート対局",
     "tournament": "特別対局室",
     "study_room": "検討室",
-    "load_kifu": "読込",
     "comment": "コメント",
     "opponent": "相手",
     "time_rule": "持ち時間",
@@ -286,6 +282,7 @@
     "reconnect_only": "接続切れした対局が続行中です。中断した対局以外の対局室に戻ることは出来ません。\n対局が終了している場合は、再ログインしてステータス欄の「中断」マークを消して下さい。",
     "reconnect_while_game": "対局に再接続するには、対局待状態を解除して下さい。",
     "suggest_invitation": "相手は対局待ちではありません。あなたの対局への招待メッセージを送りますか?",
+    "before_player_unload": "現在対局中です。故意の切断を繰り返すとアカウント停止となりますのでご注意下さい。",
     "mobile": "対象ユーザがモバイル端末によるアプリテスト中のため本機能は無効です。"
   },
   "code": {
