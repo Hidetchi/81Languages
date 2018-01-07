@@ -190,10 +190,10 @@
     "pm": "プライベートメッセージ",
     "communication": "通信",
     "notation": "棋譜法",
-    "notation_uni": "ユニバーサル",
     "notation_jp": "日本表記",
     "notation_west": "西洋表記",
-    "notation_kk": "K-K方式",
+    "notation_uni": "ユニバーサル",
+    "notation_chess": "チェス形式",
     "pm_auto": "プライベートメッセージ受信時にウインドウを自動表示",
 		"comment_notification": "自分の棋譜にコメントが付いたらEメール通知を受け取る",
     "reject_invitation": "対局への招待お断り",
@@ -267,7 +267,8 @@
       "resign": "投了しました",
       "perpetual": "連続王手の千日手",
       "repetition": "千日手です",
-      "jishogi": "27点宣言法にて終局"
+      "jishogi": "27点宣言法にて終局",
+      "suspend": "対局は中断されました"
     },
     "lag": "お使いのPCの負荷によりタイマーが5秒以上遅れています。時間切れにご注意下さい。",
     "add_block": "このユーザからの全ての通信を一時的にシャットアウトしました。この設定はログアウトするまで解除されません。",

@@ -178,9 +178,10 @@
     "pm": "Private Nachricht",
     "communication": "Kommunikation",
     "notation": "Bezeichnung",
-    "notation_uni": "Universal",
     "notation_jp": "Japanisch",
     "notation_west": "Westlich",
+    "notation_uni": "Universal",
+    "notation_chess": "Schach Art",
     "pm_auto": "Fenster bei privater Nachricht automatisch öffnen",
 		"comment_notification": "Receive e-mail when my kifu is commented",
     "reject_invitation": "Reject game invitation",
@@ -241,7 +242,7 @@
     "guest_expire_title": "Bitte anmelden"
   },
   "msg": {
-    "html5_initial": "Welcome to HTML5 beta version. A part of the functions from Flash version are still not available. If you find any bug, please report to info@81dojo.com.",
+    "html5_initial": "Welcome to HTML5 beta version. A part of the functions from Flash version are still not available. If you find any bug, please report to info@81dojo.com. (Please help us translate the app at https://github.com/Hidetchi/81Languages)",
     "game_start": "Make kind greetings when starting and ending the game. The best way to improve your skill is Postgame Analysis. (However, it is not against manners to skip the analysis and leave immediately after exchanging greeting.)",
     "mute_chat": "You are receiving watcher's chat as this game is non-rated. (Switch off the checkbox above the wathcer list to disable it.)",
     "password_encrypted": "Password will be encrypted while being sent to the server.",
@@ -262,7 +263,8 @@
       "resign": "Aufgegeben.",
       "perpetual": "Illegales ewiges Schach.",
       "repetition": "Sennichite. (Stellungswiederholung)",
-      "jishogi": "Abschluss mit 27-Punkte Regel."
+      "jishogi": "Abschluss mit 27-Punkte Regel.",
+      "suspend": "Game suspended"
     },
     "lag": "Deine Verbindung ist aufgrund PC-Belastung langsamer als 5 Sekunden. Es kann passieren, dass du auf Zeit verlierst, bevor deine Zeit abgelaufen ist.",
     "add_block": "Blocked all communication from the user. This setting will be canceled on your next login.",

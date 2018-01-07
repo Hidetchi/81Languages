@@ -180,10 +180,10 @@
     "pm": "Private Message",
     "communication": "Communication",
     "notation": "Notation Style",
-    "notation_uni": "Universal",
     "notation_jp": "Japanese",
     "notation_west": "Western",
-    "notation_kk": "K-K Method",
+    "notation_uni": "Universal",
+    "notation_chess": "Chess-order",
     "pm_auto": "Auto-open window on receiving private message",
 		"comment_notification": "Receive e-mail when my kifu is commented",
     "reject_invitation": "Reject game invitation",
@@ -244,7 +244,7 @@
     "guest_expire_title": "Please register"
   },
   "msg": {
-    "html5_initial": "Welcome to HTML5 beta version. A part of the functions from Flash version are still not available. If you find any bug, please report to info@81dojo.com.",
+    "html5_initial": "Welcome to HTML5 beta version. A part of the functions from Flash version are still not available. If you find any bug, please report to info@81dojo.com. (Please help us translate the app at https://github.com/Hidetchi/81Languages)",
     "game_start": "Make kind greetings when starting and ending the game. The best way to improve your skill is Postgame Analysis. (However, it is not against manners to skip the analysis and leave immediately after exchanging greeting.)",
     "mute_chat": "You are receiving watcher's chat as this game is non-rated. (Switch off the checkbox above the wathcer list to disable it.)",
     "password_encrypted": "Password will be encrypted while being sent to the server.",
@@ -265,7 +265,8 @@
       "resign": "Resigned.",
       "perpetual": "Perpetual Check.",
       "repetition": "Sennichite. (Repetition)",
-      "jishogi": "Game end by 27-point rule."
+      "jishogi": "Game end by 27-point rule.",
+      "suspend": "Game suspended"
     },
     "lag": "Your timer is lagging by more than 5 sec due to CPU load. Time-up loss can occur earlier than your timer hits zero.",
     "add_block": "Blocked all communication from the user. This setting will be canceled on your next login.",
