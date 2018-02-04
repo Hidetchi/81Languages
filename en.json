@@ -70,7 +70,8 @@
     "game_status": "Status",
     "monitor": "Mon",
     "opening_short": "Opng",
-    "chat": "Chat"
+    "chat": "Chat",
+    "require_pass": "Enter private room password."
   },
   "board": {
     "resign": "Resign",
@@ -225,6 +226,7 @@
     "game_type": "Game type",
     "private_room": "Private game room",
     "enter_pass": "Enter password.",
+    "enter_pass_tip": "To restrict room entrance, input a password. Otherwise leave it blank.",
     "stop": "Stop Waiting"
   },
   "chat_template": {

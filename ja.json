@@ -70,7 +70,8 @@
     "game_status": "進行",
     "monitor": "観戦",
     "opening_short": "戦型",
-    "chat": "チャット"
+    "chat": "チャット",
+    "require_pass": "入室パスワードを入力して下さい"
   },
   "board": {
     "resign": "投了",
@@ -225,6 +226,7 @@
     "game_type": "手合い",
     "private_room": "プライベート対局室",
     "enter_pass": "入室パスワードを入力して下さい",
+    "enter_pass_tip": "入室制限を掛けるにはパスワードを入力して下さい。(通常時は空欄)",
     "stop": "対局待を解除"
   },
   "chat_template": {
