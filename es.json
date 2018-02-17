@@ -129,10 +129,22 @@
     "reject": "Rechazar",
     "with_reason": "con razón",
     "auto_reject": "Auto-rechazar",
-    "invitation": "Invitación",
-    "decline": "Declinar",
     "tournament_played": "Ya has jugado con este oponente",
-    "tournament_not_yet": "No has jugado con este oponente"
+    "tournament_not_yet": "No has jugado con este oponente",
+    "C021": "Temporalmente ocupado",
+    "C022": "La clasificación está fuera del rango preferido",
+    "C023": "Esperando a otra persona"
+  },
+  "invitation": {
+    "title": "Invitación",
+    "caption": "I invite you to my game.",
+    "decline": "Declinar",
+    "C015": "Ocupado",
+    "C016": "Preferiendo otras reglas",
+    "C017": "Preferiendo juego más corto",
+    "C018": "Preferiendo el juego más largo",
+    "C019": "Preferido juego clasificado",
+    "C020": "Esperando a otra persona"
   },
   "player_info": {
     "title": "Info del jugador",

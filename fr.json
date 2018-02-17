@@ -128,10 +128,22 @@
     "reject": "Rejeter",
     "with_reason": "avec une raison",
     "auto_reject": "Auto-reject",
-    "invitation": "Invitation",
-    "decline": "Décliner",
     "tournament_played": "You have already played with this opponent",
-    "tournament_not_yet": "You haven't played with this opponent"
+    "tournament_not_yet": "You haven't played with this opponent",
+    "C021": "Temporarily busy",
+    "C022": "Rating is out of preferred range",
+    "C023": "Waiting for someone else"
+  },
+  "invitation": {
+    "title": "Invitation",
+    "caption": "I invite you to my game.",
+    "decline": "Décliner",
+    "C015": "Occupé",
+    "C016": "Préfère d'autres règles",
+    "C017": "Préfère une partie plus courte",
+    "C018": "Préfère une partie plus longue",
+    "C019": "Préfère une partie classante",
+    "C020": "Attend un autre adversaire"
   },
   "player_info": {
     "title": "Player Info",

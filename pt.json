@@ -128,10 +128,22 @@
     "reject": "Rejeitar",
     "with_reason": "com motivo",
     "auto_reject": "Rejeitar automaticamente",
-    "invitation": "Convite",
-    "decline": "Rejeitoar",
     "tournament_played": "Você já jogou com este oponente",
-    "tournament_not_yet": "Você ainda não jogou com este oponente"
+    "tournament_not_yet": "Você ainda não jogou com este oponente",
+    "C021": "Temporariamente ocupado",
+    "C022": "Rating está fora do procurado",
+    "C023": "Aguardando alguém"
+  },
+  "invitation": {
+    "title": "Convite",
+    "caption": "I invite you to my game.",
+    "decline": "Rejeitoar",
+    "C015": "Ocupado",
+    "C016": "Preferência por outras regras",
+    "C017": "Preferência por partidas mais curtas",
+    "C018": "Preferência por partidas mais longas",
+    "C019": "Preferência por partidas ranqueadas",
+    "C020": "Aguardando por alguém"
   },
   "player_info": {
     "title": "Informação do Jogador",

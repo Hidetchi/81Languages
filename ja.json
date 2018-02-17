@@ -135,10 +135,22 @@
     "reject": "拒否",
     "with_reason": "理由付",
     "auto_reject": "自動拒否",
-    "invitation": "招待",
-    "decline": "辞退",
     "tournament_played": "この大会参加者とは対局済です",
-    "tournament_not_yet": "未対局の大会参加者です"
+    "tournament_not_yet": "未対局の大会参加者です",
+    "C021": "一時的に取り込み中",
+    "C022": "レーティングが希望範囲外",
+    "C023": "先約あり"
+  },
+  "invitation": {
+    "title": "招待",
+    "caption": "このルールで挑戦者をお待ちしています",
+    "decline": "辞退",
+    "C015": "取り込み中",
+    "C016": "別ルール希望",
+    "C017": "時間の短い将棋を希望",
+    "C018": "時間の長い将棋を希望",
+    "C019": "レート対局を希望",
+    "C020": "待ち合わせ中"
   },
   "player_info": {
     "title": "プレイヤー情報",
@@ -198,6 +210,7 @@
     "notation_west": "西洋表記",
     "notation_uni": "ユニバーサル",
     "notation_chess": "チェス形式",
+    "accumulated_time": "累積時間で表示する",
     "pm_auto": "プライベートメッセージ受信時にウインドウを自動表示",
 		"comment_notification": "自分の棋譜にコメントが付いたらEメール通知を受け取る",
     "reject_invitation": "対局への招待お断り",

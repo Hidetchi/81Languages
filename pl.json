@@ -128,10 +128,22 @@
     "reject": "Odrzuć",
     "with_reason": "Powód",
     "auto_reject": "Automatycznie odrzucaj",
-    "invitation": "Zaproszenie",
-    "decline": "Odrzuć",
     "tournament_played": "Rozegrałeś już grę z tym przeciwnikiem",
-    "tournament_not_yet": "Nie grałeś jeszcze z tym przeciwnikiem"
+    "tournament_not_yet": "Nie grałeś jeszcze z tym przeciwnikiem",
+    "C021": "Chwilowo niedostępny",
+    "C022": "Ranking jest poza preferowanym zakresem",
+    "C023": "Oczekuje na kogoś innego"
+  },
+  "invitation": {
+    "title": "Zaproszenie",
+    "caption": "I invite you to my game.",
+    "decline": "Odrzuć",
+    "C015": "Zajęty",
+    "C016": "Preferuje inne reguły",
+    "C017": "Preferuje krótszą grę",
+    "C018": "Preferuje dłuższą grę",
+    "C019": "Preferuje grę rankingową",
+    "C020": "Oczekuje na kogoś innego"
   },
   "player_info": {
     "title": "Informacje o graczu",

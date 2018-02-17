@@ -135,10 +135,22 @@
     "reject": "Reject",
     "with_reason": "with reason",
     "auto_reject": "Auto-reject",
-    "invitation": "Invitation",
-    "decline": "Decline",
     "tournament_played": "You have already played with this opponent",
-    "tournament_not_yet": "You haven't played with this opponent"
+    "tournament_not_yet": "You haven't played with this opponent",
+    "C021": "Temporarily busy",
+    "C022": "Rating is out of preferred range",
+    "C023": "Waiting for someone else"
+  },
+  "invitation": {
+    "title": "Invitation",
+    "caption": "I invite you to my game.",
+    "decline": "Decline",
+    "C015": "Busy",
+    "C016": "Preferring other rules",
+    "C017": "Preferring shorter game",
+    "C018": "Preferring longer game",
+    "C019": "Preferring rated game",
+    "C020": "Waiting for someone else"
   },
   "player_info": {
     "title": "Player Info",
@@ -189,6 +201,7 @@
     "notation_west": "Western",
     "notation_uni": "Universal",
     "notation_chess": "Chess-order",
+    "accumulated_time": "Show by accumulated time",
     "pm_auto": "Auto-open window on receiving private message",
 		"comment_notification": "Receive e-mail when my kifu is commented",
     "reject_invitation": "Reject game invitation",

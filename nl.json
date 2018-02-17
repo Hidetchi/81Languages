@@ -128,10 +128,22 @@
     "reject": "Afwijzen",
     "with_reason": "Met reden",
     "auto_reject": "Automatisch afwijzen",
-    "invitation": "Uitnodiging",
-    "decline": "Afwijzen",
     "tournament_played": "Je hebt al met deze tegenstander gespeeld",
-    "tournament_not_yet": "Je hebt nog niet met deze tegenstander gespeeld"
+    "tournament_not_yet": "Je hebt nog niet met deze tegenstander gespeeld",
+    "C021": "Momenteel bezig",
+    "C022": "Rating is buiten de gewenste range",
+    "C023": "Wacht op iemand anders"
+  },
+  "invitation": {
+    "title": "Uitnodiging",
+    "caption": "I invite you to my game.",
+    "decline": "Afwijzen",
+    "C015": "Bezig",
+    "C016": "Wil liever andere regels",
+    "C017": "Wil liever een kortere partij",
+    "C018": "Wil liever een langere partij",
+    "C019": "Wil liever een partij voor rating",
+    "C020": "Wacht op iemand anders"
   },
   "player_info": {
     "title": "Speler Info",
