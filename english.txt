@@ -1,295 +1,295 @@
-﻿LANGUAGE,English
+LANGUAGE,Deutsch
 loginname,Login Name
-password,Password
-registered,Member
-guest,Guest
-language,Language
+password,Passwort
+registered,Mitglied
+guest,Gast
+language,Sprache
 server,Server
-description,Description
-players,Player
-alive,Alive
-save_login_info,Save login info
+description,Beschreibung
+players,Spieler
+alive,tätig
+save_login_info,Login Daten speichern
 login,Login
-lobby,Main Lobby
-refresh,Refresh Lists
-wait,Wait for Game
-stop,Stop Waiting
-reject_invitation,No Invitation
-challenge,Challenge
-options,Options
-search,Search
-mute,Mute
-leave,Leave PC
-logout,Log Out
-back_to_game,Back to Game
+lobby,Spielsaal
+refresh,Aktualisieren
+wait,Spiel erstellen
+stop,Spiel abbrechen
+reject_invitation,Einladung ablehnen
+challenge,Herausfordern
+options,Optionen
+search,Suche
+mute,Lautlos
+leave,PC verlassen
+logout,Ausloggen
+back_to_game,Zurück zum Spiel
 status_short,Stat
-title,Title
-rank,Rank
+title,Titel
+rank,Rang
 name,Name
-country,Country
-rate,Rate
-waiter,Waiting Player
-country_short,Ctry
-thinking_time,Time
+country,Nation
+rate,Rating
+waiter,Wartend
+country_short,Land
+thinking_time,Zeit
 handicap,Handicap
-black,Black
-white,White
-rule,Rule
+black,Schwarz
+white,Weiß
+rule,Regel
 game_status,Status
-monitor,Mon
-opening_short,Opng
-watch,Watch Game
-view_as,View as:
+monitor,Beob.
+opening_short,Eröff.
+watch,Spiel beobachten
+view_as,aus Sicht von:
 chat,Chat
-auto_scroll,Auto-scroll
-resign,Resign
+auto_scroll,Autoscroll
+resign,Aufgeben
 impasse,Impasse?
-flip,Flip Board
-close_game,Exit
-rematch,Rematch
-voice,Voice-chat
-voice_direct,Post-game analysis (Direct)
-voice_shared,Post-game analysis (Public)
-voice_broadcast,Join broadcasting
-voice_listen,Listen
-voice_off,Close connection
-status_tip_self,Myself
-status_tip_direct,Using DIRECT post-game voice-chat
-status_tip_shared,Using PUBLIC post-game voice-chat
-status_tip_broadcast,Broadcasting
-status_tip_listen,Listening to your public voice-chat
-status_tip_host,Host of the study-mode
-position_query,Look up the position
-query_material,Material balance calculation
-query_precedent,Precedent games search
-clear_arrows,Clear Arrows
-arrow,Arrow
-clear,Clear
-greet,Greet
-chat_template,Auto-translated templates
-check_lobby,Check Lobby
-check_lobby_tip,This button is only to see the lobby temporarily while staying in this room. You will not leave the room. 'Back to Game' button appears in the Lobby.
-stat_m,Monitoring
-stat_w,Waiting
-stat_p,Postgame
-stat_g,Game
-stat_g1,started
-stat_g2,opening
-stat_g3,middlegame
-stat_g4,middle/end
-stat_g5,endgame
-stat_d,Disconnected
-watchers,Watchers
-allow_chat,Receive watcher's chat
+flip,Brett drehen
+close_game,Schließen
+rematch,Revanche
+voice,Audio-Chat
+voice_direct,Nachspiel Analyse (direct)
+voice_shared,Nachspiel Analyse (öffentl.)
+voice_broadcast,An Übertragung teilnehmen
+voice_listen,Zuhören
+voice_off,Verbindung trennen
+status_tip_self,Ich
+status_tip_direct,Direkter Nachspiel Audio-Chat
+status_tip_shared,Öffentlicher Nachspiel Audio-Chat
+status_tip_broadcast,Trete Übertragung bei
+status_tip_listen,Dem Audio-Chat zuhörend
+status_tip_host,Leiter des Analyse-Modus
+position_query,Position suchen
+query_material,Material Balance Berechnung
+query_precedent,Vorangegangenes Spiel Suche
+clear_arrows,Pfeile löschen
+arrow,Pfeil
+clear,Löschen
+greet,Grüße
+check_lobby,Spielsaal besuchen
+check_lobby_tip,Diese Taste ermöglicht, den Spielsaal vorübergehend zu besuchen, ohne den Spielraum zu verlassen. Du bleibst genau genommen in diesem Raum. Die Taste 'Zurück zum Spiel' wird im Spielsaal erscheinen.
+stat_m,Beobachtend
+stat_w,Wartend
+stat_p,Nachspiel
+stat_g,Spiel
+stat_g1,gestartet
+stat_g2,Eröffnung
+stat_g3,Mittelspiel
+stat_g4,Mitte/Ende
+stat_g5,Endspiel
+stat_d,Getrennt
+watchers,Beobachter
+allow_chat,Chat der Beobachter empfangen
 kifu,Kifu
-copy,Copy to clipboard as KIF
-save,Save to KIF file
-load,Load KIF/BOD file to study-room
-replay,Replay/analyze locally
-listen,Follow latest position
-replay_tip,Replay/analyze only on own PC. The board is not shared unless you are the host of post-game discussion.
-listen_tip,Latest position is shown when watching; and host's board is shown in post-game. Arrows will be also shared.
-search_panel,Search Panel
-kifu_search,Kifu Search
-share,Share Kifu
-close,Close
-result,Result
-opening,Opening
-moves,Moves
-game_date,Date
-player_search,Player Search
-win,Win
-loss,Loss
-draw,Draw
-total,Total
-percentage_short,%-win
-streak_short,Streak
-signed_up,Joined
-last_updated,Updated
-view_rankings,View Rankings
-streak,Best Streak
-percentage,Winning %
-wins,Wins
-total_games,Total Games
-accept,Accept
-reject,Reject
-reject_reason,with reason
-decline,Decline
-decline_reason,with reason
-invitation,Invitation
-set_autoreply,Set auto-reply message
-will_be_back_in,Will be back in
-hours,hours
-minutes,minutes
-message,message
-cancel,Cancel
-pieces,Pieces
-blind_piece,Blind Piece
-op_blind_notify,Notify blind piece usage
-op_grab,Grab piece when moving
-op_highlight,Highlight movable squares
+copy,Kifu kopieren
+save,Kifu speichern
+replay,Lokales Nachspl./Analyse
+load,Lade KIF/BOD Datei im Lernraum
+replay,Lokal erneut spielen / analysieren
+listen,Aktueller Position folgen
+replay_tip,Du spielst/analysierst auf deinem eigenen PC. Dein Brett wird nicht veröffentlicht, außer wenn du der Leiter im Analyse-Modus bist.
+listen_tip,Die letzte Position der beobachtenden Partie wird angezeigt. Das Brett des Spielleiters wird veröffentlicht. Pfeile werden auch veröffentlicht.
+search_panel,Suche
+kifu_search,Kifu Suche
+share,Veröffentlichen
+close,Schließen
+result,Ergebnis
+opening,Eröffnung
+moves,Züge
+game_date,Datum
+player_search,Spielersuche
+win,Sieg
+loss,Niederlage
+draw,Remis
+total,Gesamt
+percentage_short,% Siege
+streak_short,Siegessträhne
+signed_up,Registriert
+last_updated,Letzte Partie
+view_rankings,Wertungszahlen 
+streak,Gewinnsträhne
+percentage,Prozent
+wins,Siege
+total_games,Partien gesamt
+accept,Annehmen
+reject,Ablehnen
+reject_reason,mit Grund
+decline,Ablehnen
+decline_reason,mit Grund
+invitation,Einladen
+set_autoreply,Automatische Antwort
+will_be_back_in,Bin zurück in
+hours,Stunden
+minutes,Minuten
+message,Nachricht
+cancel,Abbrechen
+pieces,Steine
+blind_piece,Blind
+op_blind_notify,Benachrichtige bei Blind-Stein Nutzung
+op_grab,Stein beim Zug greifen
+op_highlight,Zugmöglichkeiten anzeigen
 sound,Sound
-sound_piece,Piece sound
-sound_end,Game start/end sound
-sound_chat,Incoming chat sound
-sound_byoyomi,Byoyomi sound
-sound_button,Button sound
-byoyomi_chime,Chime
-byoyomi_jp,Japanese
-game_room,Game Room
-pm,Private Message
-communication,Communication
-notation,Notation Style
+sound_piece,Stein Sound
+sound_end,Spielabschluss Sound
+sound_chat,Chat Empfang Sound
+sound_byoyomi,Byoyomi Sound
+sound_button,Tasten Sound
+byoyomi_chime,Glockenspiel
+byoyomi_jp,Japanisch
+game_room,Spielraum
+pm,Private Nachricht
+communication,Kommunikation
+notation,Bezeichnung
 notation_uni,Universal
-notation_jp,Japanese
-notation_west,Western
-pm_auto,Auto-open window on reception
-arrow_accept,Accept arrows from others
-arrow_color,Your color
-remove,Remove
-past_games,Number of past games to be analyzed
-study_fitness,Self-statement regarding online post-game analysis
-study_level,interest in p. g. analysis
-english_level,English skills
-not_defined,undefined
-study_level_tip,[Level 0]　I never do it online.\n[Level 1]　I don't do it very often, but I'd basically do it if the opponent wants to.\n[Level 2]　I like post-game analysis. I always want to do it as far as the opponent agrees to.
-english_level_tip,[Level 0]　No English!\n[Level 1]　My English is bad, but I could try and do it a little bit.\n[Level 2]　I can basically communicate in English without big problem. (Or higher)
-for_premium,Only for premium members
-save_settings,Save settings to server
-win_small,win
-loss_small,loss
-current,Current
-invite,Invite
+notation_jp,Japanisch
+notation_west,Westlich
+pm_auto,Fenster bei Nachricht automatisch öffnen
+arrow_accept,Pfeile von anderen akzeptieren
+arrow_color,Deine Farbe
+remove,Entfernen
+past_games,Anzahl vergangener noch zu analysierenden Spiele
+study_fitness,Selbsterklärung bezüglich online Nachspiel-Analyse
+study_level,Interesse an Nachspiel-Analyse
+english_level,Englisch Kenntnis
+not_defined,undefiniert
+study_level_tip,[Level 0]　Ich mache das nicht online.\n[Level 1]　Ich mache das nicht oft, aber gerne wenn der Mitspieler es möchte.\n[Level 2]　Ich möchte immer eine Nachspiel-Analyse machen wenn der Mitspieler dem zustimmt.
+english_level_tip,[Level 0]　Kein Englisch!\n[Level 1]　Mein Englisch ist schlecht, aber ich könnte es ein bisschen versuchen.\n[Level 2]　Ich kann mich ganz gut verständigen (oder sehr gut)
+for_premium,Nur für Premium Mitglieder
+save_settings,Einstellungen speichern
+win_small,Siege
+loss_small,Niederl.
+current,Aktuell
+invite,Einladen
 detail,Detail
-favorite,Favorite
-ignore,Block
-allow,Give Study-mode rights
-give_host,Hand over Host status
-give_subhost,Allow Sub-host status
-set_rate,Set Rate
-rated,Rated
-nonrated,Non-rated
-min,min
-sec,sec
-hc_even,Even Game
-hc_fixed,Fixed-black
-hc_lance,Lance Down
-hc_bishop,Bishop Down
-hc_rook,Rook Down
-hc_rooklance,Rook-Lance Down
-hc_rooksilver,Rook-Silver Down
-hc_2p,2-piece Down
-hc_4p,4-piece Down
-hc_6p,6-piece Down
-hc_8p,8-piece Down
-hc_tombo,Dragonfly
-hc_10p,10-piece Down
-hc_3pawns,Three Pawns
-hc_naked,Naked King
+favorite,Favorit
+ignore,Ignorieren
+allow,Erlauben
+give_host,Spielleiter-Status übergeben
+give_subhost,Mitspiel-Status geben
+set_rate,Rang setzen
+rated,Gewertet
+nonrated,Ungewertet
+min,Min
+sec,Sek
+hc_even,Gleichauf
+hc_fixed,Anzugsvorteil
+hc_lance,Lanze Vorgabe
+hc_bishop,Läufer Vorgabe
+hc_rook,Turm Vorgabe
+hc_rooklance,Turm/Lanze Vorgabe
+hc_rooksilver,Turm/Silber Vorgabe
+hc_2p,2-Steine Vorgabe
+hc_4p,4-Steine Vorgabe
+hc_6p,6-Steine Vorgabe
+hc_8p,8-Steine Vorgabe
+hc_tombo,Libelle
+hc_10p,10-Steine Vorgabe
+hc_3pawns,Drei Bauern
+hc_naked,Blanker König
 hc_openair,Open-air Shogi
 hc_mini,Mini Shogi
 hc_56,GoroGoro Shogi
 hc_zoo,Catch the Lion
 hc_33,3x3 Shogi
-tournament,Tournament Room
-study_room,Study Room
-load_kifu,Load
-comment,Comment
-private_room,Private game room
-enter_pass,Enter password.
-pass_invalid,Wrong password. Cannot enter the room.
-declare,Declare Win
-entered_impasse,Entered
-pieces_impasse,Pieces
-points_impasse,Points
-error,Error
-tendency,Tendencies
-rate_history,Rate History
-data_table,Data Table
+tournament,Offizielles Turnier
+study_room,Studierraum
+load_kifu,Laden
+comment,Kommentar
+private_room,Privater Spielraum
+enter_pass,Passwort eingeben.
+pass_invalid,Falsche Passwort. Zugriff verwehrt.
+declare,Sieg reklamieren
+entered_impasse,Vorgerückt
+pieces_impasse,Figuren
+points_impasse,Punkte
+error,Fehler
+tendency,Tendenz
+rate_history,Rating Verlauf
+data_table,Daten Tabelle
 status,Status
-msg_newlogin,\n- Double click names to see Player Info. (Also [***] in chat window)\n- Double click games to watch.\n- Play 5 rated games against someone whose rating is already fixed, and your rating will be determined!\n- If the registered rating was much lower than your actual strength, you must reset properly.\n- You can register only your home country or residing country.
-msg_guestlogin,- The orange ◆ mark on the Player List on the left indicates your guest account.\n- To watch a game and view a player's info, please double-click on the lists.\n- Guests can only use limited functions of 81Dojo. Please see the comparison table between a guest and a registered player. --> http://81dojo.com/documents/Guest_Login_System
-msg_host,You are the host of Study Mode. Your board is shared.
-msg_subhost,You are a sub-host of study mode. You can move the host's pieces.
-msg_subhost_given,You are given Study sub-host status. You can move the host's pieces.
-msg_study_notify,Study-position is changed. Back to Listen Mode to update.
-msg_rated,This game is Rated.\nPlayers CANNOT see watcher's chat until the game ends.\nWatcher can PM to players, but it will be notified to others.
-msg_nonrated,This game is Non-rated.\nPlayers CAN see watcher's chat even during game.
-msg_disconnect,Opponent disconnected.
-msg_disconnect_self,You are disconnected from the server. The applet is no longer active. Please reload the applet to login again and continue.\nDo you want to reload immidately?
-msg_illegal,Illegal move.
-msg_perpetual,Perpetual Check.
-msg_repetition,Sennichite. (Repetition)
-msg_lag,Your timer is lagging by more than 5 sec due to CPU load. Time-up loss can occur earlier than your timer hits zero.
-msg_disconnect_alert1,You can declare win after 60 seconds, or keep waiting.
-msg_disconnect_alert2,Declaration is automatically made after 300 seconds.
-msg_addlist,Added to the list temporarily. Go to Option Window to set it permanent or cancel.
-msg_addlist_favorite,Added to the favorite list temporarily. Go to Option Window to set it permanent or cancel.
-msg_addlist_block,Added to the block list temporarily. Go to Option Window to set it permanent or cancel.
-msg_before_upgrade,You have a chance of rank promotion now. Win against someone who has a fixed rating higher than (yours - 200), and you will be promoted.
-msg_before_downgrade,Your rating is at the bottom of the rank now. You may be demoted if you lose the next game.
-msg_guest_expire,The number of games played per day has reached the limit. Please register an account (free of charge) to continue playing.
-C000,The opponent is in challenge/invite process with someone else.
-C001,Cannot start games. Server maintenance will be held soon.
-C002,The opponent is already starting a game.
-C003,The opponent did not respond within time limit.
-C004,The opponent rejected your challenge.
-C005,Challenge accepted!
-C006,You received a challenge, but s/he canceled.
-C007,Opponent disconnected.
-C010, is not accepting invitation now.
-C011, is already playing a game.
-C012, is in challenge/invite process with someone else.
-C013, did not respond within time limit.
-C014, declined the invitation.
-C015, declined the invitation. (Busy)
-C016, declined the invitation. (Preferring other rules)
-C017, declined the invitation. (Preferring shorter game)
-C018, declined the invitation. (Preferring longer game)
-C019, declined the invitation. (Preferring rated game)
-C020, declined the invitation. (Waiting for someone else)
-G000,: Leaving Host's position.
-G001,: Back to Host's position.
+msg_newlogin,\n- Doppelklick auf Spielernamen, um Details zu sehen. (Auch im Chat-Fenster möglich)\n- Doppelklick auf Partie, um sie zu beobachten.\n- Dein Rang wird dir zugeteilt, wenn du 5 gewertete Partien gespielt hast.
+msg_guestlogin,- Das orange ◆ Symbol auf der Spielerliste links, zeigt deinen Gast Account an.\n- Um eine Partie und die Spieler Info zu sehen, doppelklicke auf den Eintrag in der Liste.\n- Gäste können nur eingeschränkt die Funktionen auf 81Dojo nutzen. Hier ein Überblick der Funktionen von Gäste und registierten Spielern. --> http://81dojo.com/documents/Guest_Login_System
+msg_host,Du bist jetzt der Leiter des Analyse-Modus. Dein Brett wird veröffentlicht.
+msg_subhost,Du bist ein Helfer des Analyse-Modus. Du kannst auch für andere sichtbar die Figuren ziehen.
+msg_subhost_given,Du bist jetzt ein Helfer des Analyse-Modus. Du kannst jetzt auch für andere sichtbar die Figuren ziehen.
+msg_study_notify,Die Stellung des Analyse-Modus hat sich verändert. Wähle 'Aktuelle Position' um sie zu sehen.
+msg_rated,Diese Partie wird gewertet.\nDie Spieler können die Chats der Beobachter NICHT lesen, bis das Spiel beendet ist.\nBeobachter können PMs an die Spieler schicken, was den anderen mitgeteilt wird.
+msg_nonrated,Diese Partie wird nicht gewertet.\nDie Spieler KÖNNEN die Chats der Beobachter lesen, auch wenn das Spiel gerade gespielt wird.
+msg_disconnect,Gegner hat die Verbindung verloren.
+msg_disconnect_self,Die Verbindung zum Server ist getrennt. Das Applet ist nicht mehr aktiv. Bitte lade das Applet neu.\nMöchtest du die Seite sofort neu laden?
+msg_illegal,Illegaler Zug.
+msg_perpetual,Illegales ewiges Schach.
+msg_repetition,Sennichite. (Stellungswiederholung)
+msg_lag,Deine Verbindung ist aufgrund PC-Belastung langsamer als 5 Sekunden. Es kann passieren, dass du auf Zeit verlierst, bevor deine Zeit abgelaufen ist.
+msg_disconnect_alert1,Du darfst nach 30 Sekunden warten den Sieg reklamieren, oder kannst weiter auf den Gegner warten.
+msg_disconnect_alert2,Allerdings wird der Sieg nach 300 Sekunden automatisch reklamiert.
+msg_addlist,Ist vorübergehend in die Liste hinzugefügt. Gehe zum Optionen-Fenster, um es dauerhaft zu speichern.
+msg_addlist_favorite,Ist vorübergehend in die Favorit-Liste hinzugefügt. Gehe zum Optionen-Fenster, um es dauerhaft zu speichern.
+msg_addlist_block,Ist vorübergehend in die Block-Liste hinzugefügt. Gehe zum Optionen-Fenster, um es dauerhaft zu speichern.
+msg_before_upgrade,Du hast eine Chance auf eine Rang Beförderung. Gewinne gegen jemanden mit einem festen Rating, welches höher als deines ist (deines - 200), und du wirst befördert
+msg_before_downgrade,Deine Wertung ist nun am unteren Ende des Ranges. Du wirst zurückgestuft, solltest du das nächste Spiel verlieren.
+msg_guest_expire,Die Anzahl an Spielen hat ihr Limit erreicht. Bitte registriere einen Benutzer (kostenlos) um weiter spielen zu können.
+C000,Der Gegner ist gerade dabei, jemand anderen herauszufordern oder einzuladen.
+C001,Derzeit sind keine Forderungen möglich, da in kürze Wartungsarbeiten durchgeführt werden.
+C002,Der Gegner hat schon eine Partie begonnen.
+C003,Der Gegner hat nicht rechtzeitig geantwortet.
+C004,Der Gegner hat deine Herausforderung abgelehnt.
+C005,Herausforderung angenommen!
+C006,Du hast eine Herausforderung erhalten, aber er/sie hat diese abgebrochen.
+C007,Gegner hat die Verbindung abgebrochen.
+C010, nimmt derzeit keine Einladungen an.
+C011, hat schon eine Partie begonnen.
+C012, ist gerade dabei, jemand anderen herauszufordern oder einzuladen.
+C013, hat nicht rechtzeitig geantwortet.
+C014, hat deine Herausforderung abgelehnt.
+C015, hat deine Herausforderung abgelehnt. (Beschäftigt)
+C016, hat deine Herausforderung abgelehnt. (Andere Regeloptionen gewünscht)
+C017, hat deine Herausforderung abgelehnt. (Kürzeres Spiel gewünscht)
+C018, hat deine Herausforderung abgelehnt. (Längeres Spiel gewünscht)
+C019, hat deine Herausforderung abgelehnt. (Gewertetes Spiel gewünscht)
+C020, hat deine Herausforderung abgelehnt. (Auf jemand anderen wartend)
+G000,: Brett des Spielleiters verlassen.
+G001,: Zurück zum Brett des Spielleiters.
 G002,
-G003,: Erased branch moves.
-G004,: Loading a new position...
-G010,: Pieces set back to normal.
-G011,: Pieces set to Blind, Middle.
-G012,: Pieces set to Blind, Hard.
-G013,: Pieces set to Blind, Extreme.
-G014, is playing with blind pieces, Middle.
-G015, is Playing with blind pieces, Hard.
-G016, is Playing with blind pieces, Extreme.
-G020, will be promoted if he wins this game.
-G021, will be demoted if he loses this game.
-G050,: Standing-by for rematch.
-G100,: Blocked watchers' chat.
-G101,: Receiving watchers' chat.
-G102, is currently blocking watchers' chat.
-P000, has sent a PM to the opponent.
-L000,Name or password is wrong.
-L001,Cannot login.
-L002,Override login failed.
-L003,Login failed.
-L004,Account not activated yet.
-L005,Connection to the server failed.
-T000,Which position could've been the key point?
-T001,Excuse me, but I will leave now.
-T002,Thank you for the game. Have a nice day.
-T003,Could we analyze from the beginning?
-T004,Could we analyze a little bit?
-T005,What could've been the right move here?
-T006,How about this move?
-T007,This position seems better for me.
-T008,This position seems equal.
-T009,This is another equal game.
-T010,This position seems not easy for me.
-T011,This position seems bad for me.
-T012,Excuse me for interrupting the analysis, but I have to leave now.
-T013,It's about time I'll be leaving.
-T014,Could we play another game?
-V000,Direct voice-chat connected!
-V001,'s public voice-chat received!
-V002,Quit listening.
-V003,Requesting to connect to public voice-chat...
-V004,Sent request to players to access their post-game voice-chat.
+G003,: Variantenzüge gelöscht.
+G004,: Lade eine neue Position...
+G010,: Standardsteine wieder auswählen.
+G011,: Unsichtbare Steine 'Normal' auswählen.
+G012,: Unsichtbare Steine 'Schwer' auswählen.
+G013,: Unsichtbare Steine 'Extrem' auswählen.
+G014, spielt mit unsichtbaren Steinen 'Normal'.
+G015, spielt mit unsichtbaren Steinen 'Schwer'.
+G016, spielt mit unsichtbaren Steinen 'Extrem'.
+G020, wird befördert wenn er dieses Spiel gewinnt.
+G021, wird zurückgestuft wenn er dieses Spiel verliert.
+G050,: Bereit für eine Revanche.
+G100,: Chats von Beobachtern blockierend.
+G101,: Chats von Beobachtern empfangend.
+G102, blockiert jetzt Chats von Beobachtern.
+P000, hat an deinen Gegner eine PM gesendet.
+L000,Falscher Name oder Passwort.
+L001,Anmeldung nicht möglich.
+L002,Überschreibendes Login fehlt.
+L003,Anmeldung misslungen.
+L004,Account nicht aktiviert.
+L005,Verbindung zum Server fehlgeschlagen.
+T000,Was war der Schlüsselzug?
+T001,Entschuldige, dass ich die Analyse verlasse.
+T002,Danke für die Partie. Wünsche einen schönen Tag.
+T003,Können wir vom Anfang an analysieren?
+T004,Können wir das Spiel ein bisschen analysieren?
+T005,Was wäre der Richtig Zug hier gewesen?
+T006,Was ist mit diesem Zug?
+T007,Diese Position scheint besser für mich zu sein.
+T008,Diese Position scheint gleichwertig zu sein.
+T009,Dies ist ein weiteres ausgeglichenes Spiel.
+T010,Diese Position scheint nicht einfach für mich zu sein.
+T011,Diese Position scheint schlecht für mich zu sein.
+T012,Entschuldigung für die Unterbrechung der Analyse, aber ich muss nun leider gehen.
+T013,Es wird leider Zeit das ich gehen muss.
+T014,Können wir noch ein Spiel spielen?
+V000,Mit Audio-Chat verbunden!
+V001,s öffentlichen Audio-Chat empfangen!
+V002,Audio-Chat Empfang beenden.
+V003,Verbindung zu öffentlichem Audio-Chat anfordern...
+V004,Erlaubnis um Empfang des Audio-Chats angefragt.
