@@ -59,7 +59,7 @@
     "attr_self": "Ich",
     "attr_favorite": "Favorit",
     "attr_club": "Club Mitglied",
-    "attr_tournament": "Turnier Mitglied",						  									   
+    "attr_tournament": "Turnier Mitglied",
     "title": "Titel",
     "rank": "Rang",
     "name": "Name",
@@ -74,8 +74,8 @@
     "game_status": "Status",
     "monitor": "Beob.",
     "opening_short": "Eröff.",
-    "chat": "Chat"
-	"require_pass": "Privatraum Passwort eingeben."											  
+    "chat": "Chat",
+  	"require_pass": "Privatraum Passwort eingeben."
   },
   "board": {
     "resign": "Aufgeben",
@@ -94,7 +94,7 @@
     "give_subhost": "Mitspiel-Status geben",
     "watchers": "Beobachter",
     "no_watchers": "Kein Beobachter",
-    "attr_host": "Leiter der Nachspiel-Analyse",								
+    "attr_host": "Leiter der Nachspiel-Analyse",
     "allow_chat": "Chat der Beobachter empfangen",
     "replay": "Lokales Nachspl./Analyse",
     "listen": "Aktueller Position folgen",
@@ -120,7 +120,7 @@
     "kifu_copy": "zum Clipboard als KIF kopieren",
     "kifu_save": "KIF Datei speichern",
     "kifu_download": "Als KIF herunterladen",
-									   
+
     "kifu_load": "KIF/BOD Datei hoch laden",
     "twitter": "bei Twitter veröffentlichen",
     "facebook": "bei Facebook veröffentlichen",
@@ -203,7 +203,7 @@
     "notation_uni": "Universal",
     "notation_chess": "Schach Art",
     "accumulated_time": "Aufgelaufene Zeit anzeigen",
-    "pm_auto": "Fenster bei privater Nachricht automatisch öffnen",														   
+    "pm_auto": "Fenster bei privater Nachricht automatisch öffnen",
     "comment_notification": "E-mail empfangen wenn meine Kifu kommentiert werden",
     "reject_invitation": "Spieleinladung Ablehnen",
     "arrow": "Pfeil",
@@ -245,7 +245,7 @@
     "game_type": "Spiel Art",
     "private_room": "Privater Raum",
     "enter_pass": "Passwort eingeben.",
-																							   
+
     "stop": "Spiel abbrechen"
   },
   "chat_template": {
@@ -290,7 +290,7 @@
     },
     "lag": "Deine Verbindung ist aufgrund PC-Belastung langsamer als 5 Sekunden. Es kann passieren, dass du auf Zeit verlierst, bevor deine Zeit abgelaufen ist.",
     "add_block": "Die Kommunikation zu diesem User wurde blockiert. Diese Einstellung wird bei der nächsten Anmeldung wieder aufgehoben.",
-																																		 
+
     "still_in_game": "Du bist immer noch in einem Spiel.",
     "challenge_only_one": "Du kannst nur einen Spieler gleichzeitig herausfordern.",
     "no_challenge_6dan": "Ein neuer Spieler mit einer vorläufigen Wertung, kann keinen Spieler, mit einem 6-Dan oder höher, zu einem gewerteten Spiel herausfordern.",
