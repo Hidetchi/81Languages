@@ -1,4 +1,4 @@
-﻿{
+{
   "language": "Polski",
   "loading": "Ładowanie...",
   "min": "min",
@@ -339,8 +339,8 @@
     "G016": " gra bierkami bez znaków, poziom Ekstremalny.",
     "G020": " awansuje o stopień wyżej jeśli wygra grę.",
     "G021": " spadnie o stopień niżej jeśli przegra grę.",
-    "G030": " wyszedł.",
-    "G031": " przyszedł.",
+    "G030": " przyszedł.",
+    "G031": " wyszedł.",
     "G050": ": Chętny na rewanż.",
     "G100": ": Chat widzów zablokowany.",
     "G101": ": Otrzymuje chat widzów.",
