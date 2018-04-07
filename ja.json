@@ -261,7 +261,9 @@
     "disconnect": "サーバとの接続が切れました",
     "disconnect_title": "接続切れ",
     "guest_expire": "ゲスト対局の回数が上限に達しました。無料ユーザ登録の後、引き続き対局をお楽しみ下さい。",
-    "guest_expire_title": "登録をお願い致します"
+    "guest_expire_title": "登録をお願い致します",
+    "pm_while_playing": "対局中はプライベートメッセージを送信できません。",
+    "pm_while_playing_title": "送信ブロック"
   },
   "msg": {
     "html5_initial": "HTML版βへようこそ。\n- Flash版に比べて一部の機能が未対応(順次開発中)です → http://81dojo.com/documents/App_Platforms\n- 不具合を見つけられましたら、info@81dojo.comまでご連絡をお願い致します。",

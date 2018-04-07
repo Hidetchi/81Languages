@@ -261,7 +261,9 @@
     "disconnect": "Dein Netzwerk wurde von dem Server getrennt.",
     "disconnect_title": "Verbindung verloren",
     "guest_expire": "Die Anzahl an Spielen hat ihr Limit erreicht. Bitte registriere einen Benutzer (kostenlos) um weiter spielen zu können.",
-    "guest_expire_title": "Bitte anmelden"
+    "guest_expire_title": "Bitte anmelden",
+    "pm_while_playing": "Private Nachricht kann nicht gesendet werdern, während man eine Partie spielt.",
+    "pm_while_playing_title": "Nachricht blockiert"
   },
   "msg": {
     "html5_initial": "Willkommen zur HTML5 beta Version. Ein Teil der Funktionen der Flash Version sind derzeit noch nicht verfügbar. Solltest du einen Fehler finden, melde diesen bitte an info@81dojo.com. (Bitte hilf uns die App zu Übersetzen: https://github.com/Hidetchi/81Languages)",

@@ -261,7 +261,9 @@
     "disconnect": "Your network has disonnected from the server.",
     "disconnect_title": "Disconnection",
     "guest_expire": "The number of games played has reached the limit. Please register an account (free of charge) to continue playing.",
-    "guest_expire_title": "Please register"
+    "guest_expire_title": "Please register",
+    "pm_while_playing": "You cannot send private messages while you are playing.",
+    "pm_while_playing_title": "Message blocked"
   },
   "msg": {
     "html5_initial": "Welcome to HTML5 beta version. A part of the functions from Flash version are still not available. If you find any bug, please report to info@81dojo.com. (Please help us translate the app at https://github.com/Hidetchi/81Languages)",
