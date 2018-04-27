@@ -75,7 +75,8 @@
     "monitor": "Beob.",
     "opening_short": "Eröff.",
     "chat": "Chat",
-  	"require_pass": "Privatraum Passwort eingeben."
+  	"require_pass": "Privatraum Passwort eingeben.",
+    "canceled": "Abgebrochen"
   },
   "board": {
     "resign": "Aufgeben",

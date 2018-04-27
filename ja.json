@@ -75,7 +75,8 @@
     "monitor": "観戦",
     "opening_short": "戦型",
     "chat": "チャット",
-    "require_pass": "入室パスワードを入力して下さい"
+    "require_pass": "入室パスワードを入力して下さい",
+    "canceled": "キャンセルしました"
   },
   "board": {
     "resign": "投了",

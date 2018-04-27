@@ -75,7 +75,8 @@
     "monitor": "Mon",
     "opening_short": "Opng",
     "chat": "Chat",
-    "require_pass": "Enter private room password."
+    "require_pass": "Enter private room password.",
+    "canceled": "Canceled"
   },
   "board": {
     "resign": "Resign",
