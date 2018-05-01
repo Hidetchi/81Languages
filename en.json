@@ -106,7 +106,9 @@
     "replay_forward": "Next",
     "replay_last": "Last move",
     "move": "Move",
-    "move_time": "Time"
+    "move_time": "Time",
+    "ask_promote": "Promote?",
+    "ask_flip": "Flip over?"
   },
   "submenu": {
     "ranking": "Ranking",
@@ -267,7 +269,6 @@
     "pm_while_playing_title": "Message blocked"
   },
   "msg": {
-    "html5_initial": "Welcome to HTML5 beta version. A part of the functions from Flash version are still not available. If you find any bug, please report to info@81dojo.com. (Please help us translate the app at https://github.com/Hidetchi/81Languages)",
     "game_start": "Make kind greetings when starting and ending the game. The best way to improve your skill is Postgame Analysis. (However, it is not against manners to skip the analysis and leave immediately after exchanging greeting.)",
     "mute_chat": "You are receiving watcher's chat as this game is non-rated. (Switch off the checkbox above the wathcer list to disable it.)",
     "password_encrypted": "Password will be encrypted while being sent to the server.",

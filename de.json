@@ -106,7 +106,9 @@
     "replay_forward": "Nächster Zug",
     "replay_last": "letzter Zug",
     "move": "Zug",
-    "move_time": "Zeit"
+    "move_time": "Zeit",
+    "ask_promote": "Befördern?",
+    "ask_flip": "Umdrehen?"
   },
   "submenu": {
     "ranking": "Wertungszahlen",
@@ -267,7 +269,6 @@
     "pm_while_playing_title": "Nachricht blockiert"
   },
   "msg": {
-    "html5_initial": "Willkommen zur HTML5 beta Version. Ein Teil der Funktionen der Flash Version sind derzeit noch nicht verfügbar. Solltest du einen Fehler finden, melde diesen bitte an info@81dojo.com. (Bitte hilf uns die App zu Übersetzen: https://github.com/Hidetchi/81Languages)",
     "game_start": "Bitte eröffne und beende jedes Spiel mit einem freundlichen Gruß. Die beste Art dich zu verbessern ist durch die Nachspiel-Analyse. (Aber, es ist nicht unhöflich ein Spiel direkt nach dem Ende und einem Danke zu verlassen.)",
     "mute_chat": "Du erhältst den Zuschauer Chat da dies ein nicht gewertetes Spiel ist. (Entferne den haken über der Zuschauerliste um den Chat zu deaktivieren.)",
     "password_encrypted": "Das Passwort wird verschlüsselt zum Server gesendet.",
