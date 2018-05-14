@@ -185,7 +185,9 @@
   		"dobutsu": "おおきな森のどうぶつしょうぎ(pieco)",
   		"blind_middle": "目隠しモード 中級(Middle)",
   		"blind_hard": "目隠しモード 上級(Hard)",
-  		"blind_extreme": "目隠しモード 超級(Extreme)"
+  		"blind_extreme": "目隠しモード 超級(Extreme)",
+      "pieco_3x4": "どうぶつしょうぎ by pieco",
+      "hidetchi_3x4": "81道場 欧風デザイン"
     },
     "board_size": "盤の大きさ",
     "board_standard": "標準",
@@ -196,6 +198,7 @@
     "blind_notify": "目隠し対局の切り替えを他者に通知",
     "piece_grab": "駒を掴んだ時にホールドする",
     "piece_highlight": "動けるマスを表示",
+    "dobutsu": "どうぶつしょうぎ",
     "sound": "音声",
     "sound_piece": "駒音",
     "sound_end": "対局開始・終局音",
