@@ -311,6 +311,7 @@
     "reconnect_while_game": "Stop waiting for game before you reconnect.",
     "suggest_invitation": "Opponent is not waiting for a game. Invite to your game?",
     "before_player_unload": "You are playing a game right now. If you repeatedly disconnect on purpose while playing, you will be banned from the site.",
+    "illegal": "Check the board widely and find the cause of illegal move. Most probable cases are 'Nifu'(two-pawns-on-file) and 'putting/leaving own king in check'. Intentional illegal move instead of resigning will be met by an immediate ban as soon as being found out.",
     "mobile": "This function is invalid for this user using the mobile app."
   },
   "code": {
