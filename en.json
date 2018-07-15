@@ -296,6 +296,7 @@
     },
     "lag": "Your timer is lagging by more than 5 sec due to CPU load. Time-up loss can occur earlier than your timer hits zero.",
     "add_block": "Blocked all communication from the user. This setting will be canceled on your next login.",
+    "ask_auto_reject": "Ignore challenges from the above user",
     "auto_reject": "Further challenges from this user will be automatically rejected. This setting will be canceled on your next login.",
     "still_in_game": "You are still in a game.",
     "challenge_only_one": "You can only challenge one player at a time.",
