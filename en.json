@@ -28,6 +28,7 @@
     "save": "Save login info",
     "login": "Login",
     "relogin": "Enter again?",
+    "secure": "ENCRYPTED AUTHENTICATION",
     "signup": "Sign up an account",
     "jsa": "Supported by the JSA",
     "starting": "Checking connection...",
