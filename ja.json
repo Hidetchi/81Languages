@@ -28,7 +28,7 @@
     "save": "次回ログイン時まで保存",
     "login": "ログイン",
     "relogin": "再入場",
-    "secure": "ENCRYPTED AUTHENTICATION",
+    "secure": "保護された通信で認証します",
     "signup": "新規アカウント登録",
     "jsa": "日本将棋連盟後援",
     "starting": "通信確認中...",
