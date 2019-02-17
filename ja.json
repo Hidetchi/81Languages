@@ -131,7 +131,7 @@
     "kifu_copy": "クリップボードにKIF形式でコピー",
     "kifu_save": "KIFファイルに保存",
     "kifu_download": "KIFファイルにダウンロード",
-    "kifu_note": "棋譜ノートに出力",
+    "kifu_note": "棋譜用紙に出力",
     "kifu_load": "KIF(棋譜)/BOD(局面)ファイル読込",
     "twitter": "Twitterでシェア",
     "facebook": "Facebookでシェア",
