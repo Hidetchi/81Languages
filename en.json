@@ -30,6 +30,7 @@
     "relogin": "Enter again?",
     "secure": "SECURE AUTHENTICATION IS USED",
     "signup": "Sign up an account",
+    "online_users": "online users",
     "jsa": "Supported by the JSA",
     "starting": "Checking connection...",
     "ready": "Connection ready",
