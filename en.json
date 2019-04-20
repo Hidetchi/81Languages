@@ -272,6 +272,8 @@
     "points": "Points"
   },
   "alert": {
+    "secure_login": "Your browser displays 'Not secure' warning only because this app uses a non-encrypted method when sending the game moves and public chats. On the other hand, the password information for the login authentication is by all means very securely encrypted, and it is entirely safe. (Once you have entered the lobby, please refrain from sending any sensitive information through chats, because it is not encrypted.)",
+    "secure_login_title": "About 'Not secure' warning",
     "disconnect": "Your network has disonnected from the server.",
     "disconnect_title": "Disconnection",
     "guest_expire": "The number of games played has reached the limit. Please register an account (free of charge) to continue playing.",
@@ -295,6 +297,7 @@
     "rated": "This game is Rated. Players CANNOT see watcher's chat until the game ends.",
     "nonrated": "This game is Non-rated. Players CAN see watcher's chat by default. (Player can switch it off.)",
     "opponent_disconnect": "Opponent disconnected. You can declare win after 60 seconds, or keep waiting. However, you will be forced to win automatically after 300 seconds.",
+    "leave_during_game": "You are player. Before closing the browser you should finish the game and return to the lobby.",
     "typing": "is typing...",
     "game_end": {
       "time_up": "Time up.",
