@@ -278,6 +278,8 @@
     "guest_expire_title": "Please register",
     "pm_while_playing": "You cannot send private messages while you are playing.",
     "pm_while_playing_title": "Message blocked",
+    "confirm_block": "You can temporarily block all communications from this user.",
+    "confirm_block_title": "Block this user?",
     "request_review": "Congratulations on your first rated victory on this device. We would appreciate your sending app reviews/ratings if you find this app satisfactory. (Mileage will be rewarded for the rating points)",
     "request_review_title": "Good game!"
   },
@@ -305,7 +307,7 @@
       "suspend": "Game suspended"
     },
     "lag": "Your timer is lagging by more than 5 sec due to CPU load. Time-up loss can occur earlier than your timer hits zero.",
-    "add_block": "Blocked all communication from the user. This setting will be canceled on your next login.",
+    "add_block": "Blocked all communication from the users. This setting will be canceled on your next login.",
     "ask_auto_reject": "Ignore challenges from the above user",
     "auto_reject": "Further challenges from this user will be automatically rejected. This setting will be canceled on your next login.",
     "still_in_game": "You are still in a game.",
