@@ -154,6 +154,14 @@
     "C022": "Rating is out of preferred range",
     "C023": "Waiting for someone else"
   },
+  "automatch": {
+    "explanation": "Automatch is switched on. (You can turn it off after a 30 seconds) The game will immediately start if when a match is established. Make sure to switch it off when you leave the screen.",
+    "banner": "Standing by for automatch...",
+    "cancel": "Cancel",
+    "title": "Automatch established!",
+    "message": "Respond in 10 seconds to confirm your presence. 5 D-Miles will be deducted if no response is made.",
+    "respond": "Respond"
+  },
   "invitation": {
     "title": "Invitation",
     "caption": "I invite you to my game.",
@@ -246,10 +254,12 @@
     "level": "Level ",
     "not_defined": "undefined",
     "others": "Others",
-    "for_premium": "Only for premium members"
+    "for_premium": "For premium users only"
   },
   "new_game": {
     "title": "Create new game",
+    "manual": "Set your rules",
+    "auto": "Automatch mode",
     "rated": "Rated",
     "nonrated": "Non-rated",
     "tournament": "Tournament Room",
@@ -261,7 +271,13 @@
     "private_room": "Private game room",
     "enter_pass": "Enter password.",
     "enter_pass_tip": "To restrict room entrance, input a password. Otherwise leave it blank.",
-    "stop": "Stop Waiting"
+    "stop": "Stop Waiting",
+    "accepted_rules": "Rules you accept",
+    "rate_diff": "Rate difference you accept",
+    "diff_upper": "Upper side",
+    "diff_lower": "Lower side",
+    "diff_min": "(at least 200)",
+    "avoid_provisional": "Avoid new users"
   },
   "chat_template": {
     "title": "Auto-translated templates"
@@ -360,6 +376,7 @@
     "C023": "The opponent rejected your challenge. (Waiting for someone else)",
     "C030": "The selected rule has been canceled.",
     "C031": "The challenge has been canceled.",
+    "C032": "Opponent did not respond to the automatch.",
     "G000": ": Leaving Host's position.",
     "G001": ": Back to Host's position.",
     "G002": "",
