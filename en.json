@@ -398,6 +398,7 @@
     "G100": ": Blocked watchers' chat.",
     "G101": ": Receiving watchers' chat.",
     "G102": " is currently blocking watchers' chat.",
+    "G103": " is currently receiving watchers' chat.",
     "P000": " has sent a PM to the opponent.",
     "L000": "Name or password is wrong.",
     "L001": "Cannot login.",
