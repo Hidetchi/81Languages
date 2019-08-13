@@ -155,10 +155,10 @@
     "C023": "Waiting for someone else"
   },
   "automatch": {
-    "explanation": "Automatch is switched on. (You can turn it off after a 30 seconds) The game will immediately start if when a match is established. Make sure to switch it off when you leave the screen.",
-    "banner": "Standing by for automatch...",
+    "explanation": "Auto-pairing is switched on. (You can turn it off after a 30 seconds) The game will start immediately if an opponent is found. Make sure to switch it off when you leave the screen.",
+    "banner": "Standing by for auto-pairing...",
     "cancel": "Cancel",
-    "title": "Automatch established!",
+    "title": "Opponent found!",
     "message": "Respond in 10 seconds to confirm your presence. 5 D-Miles will be deducted if no response is made.",
     "respond": "Respond"
   },
@@ -259,7 +259,7 @@
   "new_game": {
     "title": "Create new game",
     "manual": "Set your rules",
-    "auto": "Automatch mode",
+    "auto": "Auto-pairing",
     "rated": "Rated",
     "nonrated": "Non-rated",
     "tournament": "Tournament Room",
@@ -376,7 +376,7 @@
     "C023": "The opponent rejected your challenge. (Waiting for someone else)",
     "C030": "The selected rule has been canceled.",
     "C031": "The challenge has been canceled.",
-    "C032": "Opponent did not respond to the automatch.",
+    "C032": "Opponent did not respond to the auto-pairing.",
     "G000": ": Leaving Host's position.",
     "G001": ": Back to Host's position.",
     "G002": "",
