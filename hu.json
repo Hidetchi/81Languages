@@ -119,7 +119,7 @@
     "ask_flip": "Megfordítod?"
   },
   "submenu": {
-    "ranking": "Rangsorolás",
+    "ranking": "Ranglista",
     "kifu_search": "Kifu keresés",
     "bbs": "Fórum",
     "tournament": "Bajnokságok",
@@ -253,7 +253,7 @@
     "english_level_2": "2 (Különösebb probléma nélkül tudok kommunikálni)",
     "level": "Szint ",
     "not_defined": "nem definiált",
-    "others": "Mások",
+    "others": "Egyéb",
     "for_premium": "Csak prémium felhasználóknak"
   },
   "new_game": {
