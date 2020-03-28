@@ -406,6 +406,7 @@
     "L003": "Login failed.",
     "L004": "Account not activated yet.",
     "L005": "Connection to the server failed.",
+    "L006": "Server is full.",
     "T000": "Which position could've been the key point?",
     "T001": "Excuse me, but I will leave now.",
     "T002": "Thank you for the game. Have a nice day.",
