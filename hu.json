@@ -258,7 +258,7 @@
   },
   "new_game": {
     "title": "Új játszma indítása",
-    "manual": "Szabályok beállítása",
+    "manual": "Szabályok",
     "auto": "Automatikus párosítás",
     "rated": "Pontozott",
     "nonrated": "Nem pontozott",
