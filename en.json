@@ -332,7 +332,7 @@
     "auto_reject": "Further challenges from this user will be automatically rejected. This setting will be canceled on your next login.",
     "still_in_game": "You are still in a game.",
     "challenge_only_one": "You can only challenge one player at a time.",
-    "no_challenge_6dan": "New player with a provisional rating cannot challenge 6-Dan or higher for rated games.",
+    "no_challenge_6dan": "New player with a provisional rating cannot play rated games with 6-Dan or higher.",
     "no_guest_rating": "Guests cannot play rated games.",
     "no_answer": "Communication could not be established with this opponent. The challenge is canceled.",
     "rematch_agreed": "Rematch agreed!",

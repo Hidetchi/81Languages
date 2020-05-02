@@ -296,7 +296,7 @@
 
     "still_in_game": "Du bist immer noch in einem Spiel.",
     "challenge_only_one": "Du kannst nur einen Spieler gleichzeitig herausfordern.",
-    "no_challenge_6dan": "Ein neuer Spieler mit einer vorläufigen Wertung, kann keinen Spieler, mit einem 6-Dan oder höher, zu einem gewerteten Spiel herausfordern.",
+    "no_challenge_6dan": "Ein neuer Spieler mit einer vorläufigen Wertung kann mit einem 6-Dan oder höher kein gewertetes Spiel spielen.",
     "no_guest_rating": "Gäste können keine gewerteten Spiele spielen.",
     "no_answer": "Eine Verbindung zu diesem Spieler konnte nicht aufgebaut werden. Die Herausforderung wurde abgebrochen.",
     "auto_reject": "Weiter Herausforderungen von diesem Spieler werden automatisch abgelehnt. Diese Einstellung wird beim nächsten Login wieder zurückgesetzt.",
