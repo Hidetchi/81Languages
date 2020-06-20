@@ -254,7 +254,8 @@
     "level": "Level ",
     "not_defined": "undefined",
     "others": "Others",
-    "for_premium": "For premium users only"
+    "for_premium": "For premium users only",
+    "skin": "Theme"
   },
   "new_game": {
     "title": "Create new game",
@@ -334,6 +335,7 @@
     "challenge_only_one": "You can only challenge one player at a time.",
     "no_challenge_6dan": "New player with a provisional rating cannot play rated games with 6-Dan or higher.",
     "no_guest_rating": "Guests cannot play rated games.",
+    "unsupported_rule": "This special game rule is not supported by this app.",
     "no_answer": "Communication could not be established with this opponent. The challenge is canceled.",
     "rematch_agreed": "Rematch agreed!",
     "rematch_follow": "By pushing rematch button, you can directly enter the next room.",
@@ -351,6 +353,7 @@
   "code": {
     "E010": "The user is not logged in. The message was saved for his/her next login.",
     "E018": "Database update failed. (Please contact the support.)",
+    "E019": "The game rule is not supported by this server.",
     "C000": "The opponent is in challenge/invite process with someone else.",
     "C001": "Cannot start games. Server maintenance will be held soon.",
     "C002": "The opponent is already starting a game.",
