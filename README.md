@@ -14,6 +14,6 @@
 * Some words are used in a table column with limited width. Look at Japanese/English example to guess which part each word is being used.
 * Some sentences will be connected to user name. Look at Japanese/English example to guess how it is being used.
   * *Example*: Parameter "code.C014" being set as " declined invitation." will be used like "Hidetchi declined invitation." Therefore you need to **add a space in front**.
-* For city names in "clock" section, you could change the city to represent the home country of the language.
+* For city names in "clock" section, you could change the city to represent the home country of the language if your country matches one of the time zones.
   * *Example*: If you are making French file, you might want to change parameter "clock.cet" (the parameter for Central European Time) from "Frankfurt" to "Paris".
 * Parameter "option.level" probably needs a space at the end, being used like "Level 0", "Level 1", etc.
