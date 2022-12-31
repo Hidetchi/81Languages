@@ -173,6 +173,12 @@
     "C019": "Preferring rated game",
     "C020": "Waiting for someone else"
   },
+  "reconnection": {
+    "title": "Reconnecting to a pending game",
+    "caption": "You have a pending game. You will be reconnected automatically.",
+    "accept": "Reconnect now",
+    "reject": "Reject reconnection"
+  },
   "player_info": {
     "title": "Player Info",
     "win": "win",
@@ -346,6 +352,7 @@
     "last_kifu_url": "Kifu URL of your last game: ",
     "reconnect_only": "You can only recconect to the game you disconnected from.\nIf your game had already ended, re-login to clear your 'D' status.",
     "reconnect_while_game": "Stop waiting for game before you reconnect.",
+    "reconnection_rejected": "Rejected reconnection. It is prohibited to leave a game without ending it, except for unavoidable cases such as the opponent's permanent delay.",
     "suggest_invitation": "Opponent is not waiting for a game. Invite to your game?",
     "before_player_unload": "You are playing a game right now. If you repeatedly disconnect on purpose while playing, you will be banned from the site.",
     "illegal": "Check the board widely and find the cause of illegal move. Most probable cases are 'Nifu'(two-pawns-on-file) and 'putting/leaving own king in check'. Intentional illegal move instead of resigning will be met by an immediate ban as soon as being found out.",
