@@ -134,7 +134,7 @@
     "kifu_download": "KIFファイルにダウンロード",
     "kifu_note": "棋譜用紙に出力",
     "kifu_load": "KIF(棋譜)/BOD(局面)ファイル読込",
-    "twitter": "Twitterでシェア",
+    "twitter": "Xでシェア",
     "facebook": "Facebookでシェア",
     "kyokumenpedia": "局面ペディアへ",
     "material_balance": "駒割計算",
@@ -262,7 +262,9 @@
     "not_defined": "未設定",
     "others": "その他",
     "for_premium": "上級クラス専用機能",
-    "skin": "主題"
+    "skin": "主題",
+    "beginner": "初心者",
+    "rescue_illegal": "反則手を救済する回数 (レート対局と大会を除く)"
   },
   "new_game": {
     "title": "新規対局の作成",
@@ -356,6 +358,7 @@
     "suggest_invitation": "相手は対局待ちではありません。あなたの対局への招待メッセージを送りますか?",
     "before_player_unload": "現在対局中です。故意の切断を繰り返すとアカウント停止となりますのでご注意下さい。",
     "illegal": "反則の原因を盤面上に赤い記号で表示しました。なお、投了すべき局面で故意に反則手で終局させることは規約違反となっております。(故意でなければ問題ありません)",
+    "rescue_illegal": "その手は反則手です！気を付けて別の手を指し直して下さい。残り救済回数 = ",
     "mobile": "対象ユーザがモバイル端末によるアプリテスト中のため本機能は無効です。"
   },
   "code": {
@@ -439,6 +442,7 @@
     "utc": "世界標準時",
     "cet": "フランクフルト",
     "moscow": "モスクワ",
+    "dubai": "ドバイ",
     "mumbai": "ムンバイ",
     "bangkok": "バンコク",
     "shanghai": "上海",

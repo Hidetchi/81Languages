@@ -16,7 +16,7 @@
   "pass_invalid": "Неправильний пароль. Неможливо увійти в кімнату.",
   "login": {
     "loginname": "Ім'я користувача",
-    "password": "Пароль", 
+    "password": "Пароль",
     "language": "Мова",
     "registered": "Учасник",
     "music": "Увімкнути/вимкнути звук",
@@ -134,7 +134,7 @@
     "kifu_download": "Завантажити KIF файл",
     "kifu_note": "Експортувати кіфу аркуш",
     "kifu_load": "Загрузити KIF/BOD файл",
-    "twitter": "Поділитися на Twitter",
+    "twitter": "Поділитися на X",
     "facebook": "Поділитися на Facebook",
     "kyokumenpedia": "Kyokumenpedia",
     "material_balance": "Підрахувати матеріал",

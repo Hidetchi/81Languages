@@ -134,7 +134,7 @@
     "kifu_download": "Download to KIF file",
     "kifu_note": "Export to kifu sheet",
     "kifu_load": "Load KIF/BOD file",
-    "twitter": "Share on Twitter",
+    "twitter": "Share on X",
     "facebook": "Share on Facebook",
     "kyokumenpedia": "To Kyokumenpedia",
     "material_balance": "Calculate material",
@@ -262,7 +262,9 @@
     "not_defined": "undefined",
     "others": "Others",
     "for_premium": "For premium users only",
-    "skin": "Theme"
+    "skin": "Theme",
+    "beginner": "Beginner",
+    "rescue_illegal": "How many times an illegal move is rescued (Except rated games and tournaments)"
   },
   "new_game": {
     "title": "Create new game",
@@ -328,6 +330,7 @@
       "time_up": "Time up.",
       "disconnect": "Game end by player's disconnection.",
       "illegal": "Illegal move.",
+      "rescue_illegal": "Your intended move was an illegal move! Please carefully make a different move. Remaining rescue count = ",
       "resign": "Resigned.",
       "perpetual": "Perpetual Check.",
       "repetition": "Sennichite. (Repetition)",
@@ -439,6 +442,7 @@
     "utc": "UTC",
     "cet": "Frankfurt",
     "moscow": "Moscow",
+    "dubai": "Dubai",
     "mumbai": "Mumbai",
     "bangkok": "Bangkok",
     "shanghai": "Shanghai",
