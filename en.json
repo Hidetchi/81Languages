@@ -264,7 +264,8 @@
     "for_premium": "For premium users only",
     "skin": "Theme",
     "beginner": "Beginner",
-    "rescue_illegal": "How many times an illegal move is rescued (Except rated games and tournaments)"
+    "rescue_illegal": "How many times an illegal move is rescued (Except rated games and tournaments)",
+    "rescue_illegal_exception": "Rescued moves are only 'double pawn' and 'move that leaves the own king in check'. This function does not work for other illegal moves such as 'pawn drop mate', 'perpetual check', etc."
   },
   "new_game": {
     "title": "Create new game",
