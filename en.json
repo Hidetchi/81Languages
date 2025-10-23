@@ -77,6 +77,8 @@
     "black": "Black",
     "white": "White",
     "players": "Players",
+    "users": "Players",
+    "games": "Games",
     "rule": "Rule",
     "game_status": "Status",
     "monitor": "Mon",
@@ -94,6 +96,7 @@
     "position": "Position",
     "kifu": "Kifu",
     "close_game": "Exit Game",
+    "leave_room": "Leave Room",
     "rematch": "Rematch",
     "check_lobby": "See Lobby Temporarily\n(while NOT leaving this game)",
     "clear": "Clear",
@@ -101,6 +104,7 @@
     "allow": "Give Study-mode rights",
     "give_host": "Hand over Host status",
     "give_subhost": "Allow Sub-host status",
+    "give_host_mobile": "Switch Host",
     "watchers": "Watchers",
     "no_watchers": "No watcher",
     "attr_host": "Host of analysis",
@@ -119,6 +123,7 @@
     "ask_flip": "Flip over?"
   },
   "submenu": {
+    "menu": "Menu",
     "ranking": "Ranking",
     "kifu_search": "Kifu search",
     "bbs": "World Forum",
@@ -265,7 +270,12 @@
     "skin": "Theme",
     "beginner": "Beginner",
     "rescue_illegal": "How many times an illegal move is rescued (Except rated games and tournaments)",
-    "rescue_illegal_exception": "Rescued moves are only 'double pawn' and 'move that leaves the own king in check'. This function does not work for other illegal moves such as 'pawn drop mate', 'perpetual check', etc."
+    "rescue_illegal_exception": "Rescued moves are only 'double pawn' and 'move that leaves the own king in check'. This function does not work for other illegal moves such as 'pawn drop mate', 'perpetual check', etc.",
+    "assistance": "Assistance",
+    "square_advisor": "Touched square preview",
+    "off": "OFF",
+    "right_handed": "Right-hander",
+    "left_handed": "Left-hander"
   },
   "new_game": {
     "title": "Create new game",

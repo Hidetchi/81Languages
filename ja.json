@@ -77,6 +77,8 @@
     "black": "先手",
     "white": "後手",
     "players": "対局者",
+    "users": "ユーザ",
+    "games": "対局",
     "rule": "ルール",
     "game_status": "進行",
     "monitor": "観戦",
@@ -94,6 +96,7 @@
     "position": "局面",
     "kifu": "棋譜",
     "close_game": "対局室を出る",
+    "leave_room": "退室",
     "rematch": "再戦",
     "check_lobby": "ロビーを確認\n(対局室を出ずに\n一時的にロビー画面へ)",
     "clear": "消去",
@@ -101,6 +104,7 @@
     "allow": "感想戦の権限を付与",
     "give_host": "ホスト権限を移譲",
     "give_subhost": "サブ・ホスト権限を付与",
+    "give_host_mobile": "ホスト移譲",
     "watchers": "観戦者",
     "no_watchers": "観戦者なし",
     "attr_host": "感想戦ホスト",
@@ -119,6 +123,7 @@
     "ask_flip": "裏返しますか?"
   },
   "submenu": {
+    "menu": "メニュー",
     "ranking": "ランキング",
     "kifu_search": "棋譜検索",
     "bbs": "国際掲示板",
@@ -265,7 +270,12 @@
     "skin": "主題",
     "beginner": "初心者",
     "rescue_illegal": "反則手を救済する回数 (レート対局と大会を除く)",
-    "rescue_illegal_exception": "※ 救済対象は「二歩」と「玉を自ら相手の利きに入れる手」のみです。その他の反則手(打ち歩詰め、連続王手の千日手など)に対しては機能しません。"
+    "rescue_illegal_exception": "※ 救済対象は「二歩」と「玉を自ら相手の利きに入れる手」のみです。その他の反則手(打ち歩詰め、連続王手の千日手など)に対しては機能しません。",
+    "assistance": "補助機能",
+    "square_advisor": "着手前タッチプレビュー",
+    "off": "OFF",
+    "right_handed": "右利き用",
+    "left_handed": "左利き用"
   },
   "new_game": {
     "title": "新規対局の作成",
