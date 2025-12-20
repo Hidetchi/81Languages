@@ -113,6 +113,7 @@
     "listen": "現在の局面を受信",
     "replay_tip": "自分のPC上でのみ局面を動かします。感想戦ホストである場合を除き、他者との情報共有は行いません。",
     "listen_tip": "観戦中は最新局面、感想戦中はホストの検討局面を表示します。描いた矢印も他者と共有されます。",
+    "swipe_sidebar": "スワイプして格納",
     "replay_first": "初期局面へ",
     "replay_back": "1手戻る",
     "replay_forward": "1手進む",
@@ -133,6 +134,7 @@
     "player_search": "ユーザ情報検索",
     "favorites": "フォローユーザ管理",
     "diploma": "免状申請",
+    "manage_account": "アカウント管理",
     "inquiry": "問い合わせ",
     "kifu_copy": "クリップボードにKIF形式でコピー",
     "kifu_save": "KIFファイルに保存",
@@ -183,6 +185,10 @@
     "caption": "未終局の対局があります。自動で再接続します。",
     "accept": "今すぐ再接続",
     "reject": "再接続を拒否"
+  },
+  "selection": {
+    "player_detail": "詳細を開く",
+    "enter_game": "入室する"
   },
   "player_info": {
     "title": "プレイヤー情報",

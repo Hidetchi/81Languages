@@ -113,6 +113,7 @@
     "listen": "Follow latest position",
     "replay_tip": "Replay/analyze only on own PC. The board is not shared unless you are the host of post-game discussion.",
     "listen_tip": "Latest position is shown when watching; and host's board is shown in post-game. Arrows will be also shared.",
+    "swipe_sidebar": "Swipe to hide",
     "replay_first": "Initial position",
     "replay_back": "Previous",
     "replay_forward": "Next",
@@ -133,6 +134,7 @@
     "player_search": "Search player info",
     "favorites": "Manage favorite users",
     "diploma": "Apply for diploma",
+    "manage_account": "Manage account",
     "inquiry": "Contact form",
     "kifu_copy": "Copy to clipboard as KIF",
     "kifu_save": "Save to KIF file",
@@ -183,6 +185,10 @@
     "caption": "You have a pending game. You will be reconnected automatically.",
     "accept": "Reconnect now",
     "reject": "Reject reconnection"
+  },
+  "selection": {
+    "player_detail": "Open Detail",
+    "enter_game": "Enter Game"
   },
   "player_info": {
     "title": "Player Info",
