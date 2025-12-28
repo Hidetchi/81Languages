@@ -197,10 +197,10 @@
   "option" : {
     "pieces": "駒",
     "piece_design": {
-  		"ichiji": "一字彫 裏朱 (高解像度)",
+  		"ichiji": "一字彫 裏朱 柾目",
   		"ninju": "仁寿 裏朱",
   		"hidetchi": "Hidetchi国際駒",
-  		"shogicz": "Shogi.CZ (高解像度)",
+  		"shogicz": "Shogi.CZ",
   		"ichiji_ryoko": "菱湖一字 裏朱 (旧81Dojo)",
   		"kinki": "錦旗 孔雀杢",
   		"ryoko": "巻菱湖 孔雀杢",

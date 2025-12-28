@@ -197,10 +197,10 @@
   "option": {
     "pieces": "Piece",
     "piece_design": {
-  		"ichiji": "One-kanji, Red-promotion (HiRez)",
+  		"ichiji": "One-kanji, Red-promotion",
   		"ninju": "Ninju, Red-promotion",
   		"hidetchi": "Hidetchi's Internationalized",
-  		"shogicz": "Shogi.CZ (HiRez)",
+  		"shogicz": "Shogi.CZ",
   		"ichiji_ryoko": "Simplified Ryoko, Red-promotion",
   		"kinki": "Kinki, on peacock",
   		"ryoko": "Makino-Ryoko, on peacock",
