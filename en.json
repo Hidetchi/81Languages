@@ -77,6 +77,8 @@
     "black": "Black",
     "white": "White",
     "players": "Players",
+    "users": "Players",
+    "games": "Games",
     "rule": "Rule",
     "game_status": "Status",
     "monitor": "Mon",
@@ -94,6 +96,7 @@
     "position": "Position",
     "kifu": "Kifu",
     "close_game": "Exit Game",
+    "leave_room": "Leave Room",
     "rematch": "Rematch",
     "check_lobby": "See Lobby Temporarily\n(while NOT leaving this game)",
     "clear": "Clear",
@@ -101,6 +104,7 @@
     "allow": "Give Study-mode rights",
     "give_host": "Hand over Host status",
     "give_subhost": "Allow Sub-host status",
+    "give_host_mobile": "Switch Host",
     "watchers": "Watchers",
     "no_watchers": "No watcher",
     "attr_host": "Host of analysis",
@@ -109,6 +113,7 @@
     "listen": "Follow latest position",
     "replay_tip": "Replay/analyze only on own PC. The board is not shared unless you are the host of post-game discussion.",
     "listen_tip": "Latest position is shown when watching; and host's board is shown in post-game. Arrows will be also shared.",
+    "swipe_sidebar": "Swipe to hide",
     "replay_first": "Initial position",
     "replay_back": "Previous",
     "replay_forward": "Next",
@@ -119,6 +124,7 @@
     "ask_flip": "Flip over?"
   },
   "submenu": {
+    "menu": "Menu",
     "ranking": "Ranking",
     "kifu_search": "Kifu search",
     "bbs": "World Forum",
@@ -128,6 +134,7 @@
     "player_search": "Search player info",
     "favorites": "Manage favorite users",
     "diploma": "Apply for diploma",
+    "manage_account": "Manage account",
     "inquiry": "Contact form",
     "kifu_copy": "Copy to clipboard as KIF",
     "kifu_save": "Save to KIF file",
@@ -178,6 +185,10 @@
     "caption": "You have a pending game. You will be reconnected automatically.",
     "accept": "Reconnect now",
     "reject": "Reject reconnection"
+  },
+  "selection": {
+    "player_detail": "Open Detail",
+    "enter_game": "Enter Game"
   },
   "player_info": {
     "title": "Player Info",
@@ -265,7 +276,12 @@
     "skin": "Theme",
     "beginner": "Beginner",
     "rescue_illegal": "How many times an illegal move is rescued (Except rated games and tournaments)",
-    "rescue_illegal_exception": "Rescued moves are only 'double pawn' and 'move that leaves the own king in check'. This function does not work for other illegal moves such as 'pawn drop mate', 'perpetual check', etc."
+    "rescue_illegal_exception": "Rescued moves are only 'double pawn' and 'move that leaves the own king in check'. This function does not work for other illegal moves such as 'pawn drop mate', 'perpetual check', etc.",
+    "assistance": "Assistance",
+    "square_advisor": "Touched square preview",
+    "off": "OFF",
+    "right_handed": "Right-hander",
+    "left_handed": "Left-hander"
   },
   "new_game": {
     "title": "Create new game",
