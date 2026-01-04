@@ -292,6 +292,7 @@
     "manual": "Set your rules",
     "auto": "Auto-pairing",
     "rated": "Rated",
+    "rated10": "Separately Rated for 10-sec",
     "nonrated": "Non-rated",
     "tournament": "Tournament Room",
     "study_room": "Study Room",
@@ -365,6 +366,7 @@
     "still_in_game": "You are still in a game.",
     "challenge_only_one": "You can only challenge one player at a time.",
     "no_challenge_6dan": "New player with a provisional rating cannot play rated games with 6-Dan or higher.",
+    "no_challenge_10sec": "New player with a provisional rating cannot play 10-sec rated games.",
     "no_guest_rating": "Guests cannot play rated games.",
     "unsupported_rule": "This special game rule is not supported by this app.",
     "no_answer": "Communication could not be established with this opponent. The challenge is canceled.",
@@ -380,7 +382,8 @@
     "suggest_invitation": "Opponent is not waiting for a game. Invite to your game?",
     "before_player_unload": "You are playing a game right now. If you repeatedly disconnect on purpose while playing, you will be banned from the site.",
     "illegal": "Check the board widely and find the cause of illegal move. Most probable cases are 'Nifu'(two-pawns-on-file) and 'putting/leaving own king in check'. Intentional illegal move instead of resigning will be met by an immediate ban as soon as being found out.",
-    "mobile": "This function is invalid for this user using the mobile app."
+    "mobile": "This function is invalid for this user using the mobile app.",
+    "your_10sec_rate": "Your 10-sec rating is now:"
   },
   "code": {
     "E010": "The user is not logged in. The message was saved for his/her next login.",
