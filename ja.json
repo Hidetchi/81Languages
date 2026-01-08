@@ -312,6 +312,7 @@
     "avoid_provisional": "新鋭棋士お断り"
   },
   "chat_template": {
+    "button_label": "定型文",
     "title": "自動翻訳定型文"
   },
   "impasse": {

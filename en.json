@@ -312,6 +312,7 @@
     "avoid_provisional": "Avoid new users"
   },
   "chat_template": {
+    "button_label": "Templates",
     "title": "Auto-translated templates"
   },
   "impasse": {
