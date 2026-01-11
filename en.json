@@ -321,6 +321,25 @@
     "pieces": "Pieces",
     "points": "Points"
   },
+  "video_chat": {
+    "button_label": "Live Chat",
+    "button_title": "Start/Stop Live Chat mode",
+    "opponent_absent": "The opponent is not present in the game room.",
+    "preparing": " is preparing Live Chat now. Please wait for them to initiate it. (Initiating from both sides will cause errors)",
+    "initiated": "Live Chat request is created. Waiting for opponent's response.",
+    "offer": " initiated Live Chat mode. Would you like to accept?",
+    "connected": "Live Chat is now online.",
+    "hang_up": "Terminated Live Chat mode.",
+    "hung_up": "'s Live Chat is terminated.",
+    "canceled": "Creation of Live Chat has been canceled.",
+    "rejected": " declined using Live Chat mode. (Or could not use it due to error)",
+    "failed": "Live Chat error: P2P connection between you and the opponent could not be established.",
+    "receiving": " accepted Live Chat with Receiving-only Mode.",
+    "mutual": "Mutual mode",
+    "receive_only": "Receiving-only",
+    "decline": "Decline",
+    "error": "Canceled Live Chat due to error."
+  },
   "alert": {
     "secure_login": "Your browser displays 'Not secure' warning only because this app uses a non-encrypted method when sending the game moves and public chats. On the other hand, the password information for the login authentication is by all means very securely encrypted, and it is entirely safe. (Once you have entered the lobby, please refrain from sending any sensitive information through chats, because it is not encrypted.)",
     "secure_login_title": "About 'Not secure' warning",
