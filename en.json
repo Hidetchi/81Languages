@@ -208,6 +208,7 @@
   "option": {
     "pieces": "Piece",
     "piece_design": {
+      "custom": "Custom",
   		"ichiji": "One-kanji, Red-promotion",
   		"ninju": "Written piece, Red-promotion",
       "suimei_souho": "Soho-gonomi, Straight grain",

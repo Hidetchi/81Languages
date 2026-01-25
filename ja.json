@@ -208,6 +208,7 @@
   "option" : {
     "pieces": "駒",
     "piece_design": {
+      "custom": "マイ駒",
   		"ichiji": "一字彫 裏朱 柾目",
   		"ninju": "書き駒 楷書 裏朱 柾目",
       "suimei_souho": "宗歩好 柾目",
