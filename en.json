@@ -144,6 +144,7 @@
     "twitter": "Share on X",
     "facebook": "Share on Facebook",
     "kyokumenpedia": "To Kyokumenpedia",
+    "analyze": "Analyze by AI",
     "material_balance": "Calculate material",
     "query_precedent": "Precedent games search",
     "query_eval": "Analyze with engine",
@@ -322,6 +323,21 @@
     "entered": "Entered",
     "pieces": "Pieces",
     "points": "Points"
+  },
+  "analysis": {
+    "analyzing": "Now Analyzing...",
+    "win": "Win",
+    "winning": "Winning",
+    "advantage": "Advantage",
+    "better": "Better",
+    "even": "Even",
+    "worse": "Worse",
+    "disadvantage": "Disadvantage",
+    "losing": "Losing",
+    "lost": "Lost",
+    "mate": "Mate",
+    "error": "Analysis request was canceled due to error.",
+    "cannot_request": "Analysis cannot be used under the current conditions."
   },
   "video_chat": {
     "button_label": "Live Chat",

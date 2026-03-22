@@ -144,6 +144,7 @@
     "twitter": "Xでシェア",
     "facebook": "Facebookでシェア",
     "kyokumenpedia": "局面ペディアへ",
+    "analyze": "AI解析",
     "material_balance": "駒割計算",
     "query_precedent": "前例検索",
     "query_eval": "ソフト解析",
@@ -322,6 +323,21 @@
     "entered": "入玉",
     "pieces": "敵陣駒数",
     "points": "確定点数"
+  },
+  "analysis": {
+    "analyzing": "解析実行中...",
+    "win": "勝ち",
+    "winning": "勝勢",
+    "advantage": "優勢",
+    "better": "有利",
+    "even": "互角",
+    "worse": "不利",
+    "disadvantage": "劣勢",
+    "losing": "敗勢",
+    "lost": "負け",
+    "mate": "詰み",
+    "error": "解析リクエストはエラーによりキャンセルされました",
+    "cannot_request": "現在の条件では解析機能をお使い頂けません"
   },
   "video_chat": {
     "button_label": "ライブチャット",
