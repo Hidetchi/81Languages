@@ -35,7 +35,7 @@
   },
   "lobby": {
     "lobby": "Lobby Principal",
-    "refresh": "Refrecar listas",
+    "refresh": "Refrescar listas",
     "wait": "Esperar para jugar",
     "find_player": "Buscar jugador",
     "player_not_found": "Usuario no encontrado.",
