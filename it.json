@@ -16,7 +16,7 @@
   "pass_invalid": "Password errata. Non può entrare nella stanza.",
   "login": {
     "loginname": "Nome utente",
-    "password": "Parola d’ordine",
+    "password": "Password",
     "language": "Lingua",
     "registered": "Membro",
     "music": "Cambia musica di apertura",
@@ -80,7 +80,7 @@
     "rule": "Regole",
     "game_status": "Stato",
     "monitor": "Mon",
-    "opening_short": "Aprire",
+    "opening_short": "Apertura",
     "chat": "Chat",
     "require_pass": "Inserire la password della stanza privata.",
     "entering": "Ora è connesso alla stanza...",
