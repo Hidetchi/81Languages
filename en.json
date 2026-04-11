@@ -467,6 +467,8 @@
     "G016": " is Playing with Blind-piece Mode; Extreme",
     "G020": " will be promoted if s/he wins this game.",
     "G021": " will be demoted if s/he loses this game.",
+    "G022": " will be promoted in Kiseikai by winning this game.",
+    "G023": " will be demoted in Kiseikai by losing this game.",
     "G030": " entered.",
     "G031": " left.",
     "G032": " disconnected.",
