@@ -89,6 +89,7 @@
     "canceled": "Canceled"
   },
   "board": {
+    "absence": "Away from board...",
     "resign": "Resign",
     "impasse": "Impasse?",
     "flip": "Flip Board",

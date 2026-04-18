@@ -89,6 +89,7 @@
     "canceled": "キャンセルしました"
   },
   "board": {
+    "absence": "離席中...",
     "resign": "投了",
     "impasse": "持将棋計算",
     "flip": "盤面反転",
