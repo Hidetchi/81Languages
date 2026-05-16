@@ -342,7 +342,11 @@
     "lost": "Lost",
     "mate": "Mate",
     "error": "Analysis request was canceled due to error.",
-    "cannot_request": "Analysis cannot be used under the current conditions."
+    "cannot_request": "Analysis cannot be used under the current conditions.",
+    "kyokumenpedia_match": "Deepest position matching Kyokumenpedia",
+    "kyokumenpedia_note": "Analysis commentary",
+    "kyokumenpedia_info": "Related info",
+    "kyokumenpedia_precedent": "At least 2 precedents"
   },
   "video_chat": {
     "button_label": "Live Chat",

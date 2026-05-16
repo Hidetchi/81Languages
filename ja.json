@@ -342,7 +342,11 @@
     "lost": "負け",
     "mate": "詰み",
     "error": "解析リクエストはエラーによりキャンセルされました",
-    "cannot_request": "現在の条件では解析機能をお使い頂けません"
+    "cannot_request": "現在の条件では解析機能をお使い頂けません",
+    "kyokumenpedia_match": "局面ペディア最深一致局面",
+    "kyokumenpedia_note": "解説ノート",
+    "kyokumenpedia_info": "参考データ",
+    "kyokumenpedia_precedent": "前例2局以上"
   },
   "video_chat": {
     "button_label": "ライブチャット",
