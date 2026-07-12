@@ -299,6 +299,7 @@
     "auto": "自動手合い",
     "rated": "レート対局",
     "additional_60": "考慮60秒",
+    "fischer_5": "1手5秒加算",
     "rated10": "10秒専用レート対局",
     "nonrated": "非レート対局",
     "tournament": "特別対局室",
