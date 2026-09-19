@@ -207,7 +207,8 @@
     "invite": "招待",
     "detail": "詳細",
     "favorite": "お気に入り",
-    "ignore": "ブロック"
+    "ignore": "ブロック",
+    "valid_opponent": "有効な相手"
   },
   "option" : {
     "pieces": "駒",

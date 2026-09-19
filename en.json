@@ -207,7 +207,8 @@
     "invite": "Invite",
     "detail": "Detail",
     "favorite": "Favorite",
-    "ignore": "Block"
+    "ignore": "Block",
+    "valid_opponent": "Valid opponent"
   },
   "option": {
     "pieces": "Piece",
